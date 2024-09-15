@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RenoX23
-- 👀 I’m interested in Software Deloping
+- 👀 I’m interested in Software Developing
 - 🌱 I’m currently learning Computer Engineering
 - 💞️ I’m looking to collaborate on React and Django
 - 📫 How to reach me : renoldstephen23@gmail.com
