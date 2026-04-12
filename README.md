@@ -15,8 +15,9 @@
 ---
 
 ## About
+I’m a Computer Science postgraduate focused on building intelligent cloud-native systems that integrate DevOps and machine learning. 
 
-I bridge **infrastructure and intelligence** — building automated pipelines, scalable cloud systems, and ML-powered observability tools. My work spans GitOps, anomaly detection on cloud metrics, and phishing detection using NLP and classification models.
+I bridge **infrastructure and intelligence** — building automated pipelines, scalable cloud systems, and ML-powered observability tools. My work spans GitOps, anomaly detection on cloud metrics, and phishing detection using NLP and classification models. My work centers on improving system reliability, automation, and intelligent monitoring.
 
 
 Currently exploring **MLOps and GenAI** applications on cloud-native stacks.
