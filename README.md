@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Hi%2C%20I'm%20Renold%20%F0%9F%91%8B&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=DevOps%20%7C%20MLOps%20%7C%20Cloud%20Engineer&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Hi%2C%20I'm%20Renold%20%F0%9F%91%8B&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=DevOps%20%7C%20MLOps%20%7C%20Cloud%20%7C%20GenAI&descAlignY=58&descSize=18" />
 </p>
 
 <!-- Status Pills -->
@@ -20,7 +20,7 @@ I bridge **infrastructure and intelligence** — building automated pipelines, s
 
 Currently completing my M.Tech in Computer Science, applying DevOps principles to MLOps and data-intensive architectures.
 
-> 🔭 Building: ML-integrated cloud infrastructure &nbsp;|&nbsp; 💼 Open to: DevOps / MLOps / Cloud Engineer roles
+> 🔭 Building: ML-integrated cloud infrastructure &nbsp;|&nbsp; 💼 Open to: DevOps / MLOps / Cloud Engineer / GenAI roles
 
 ---
 
@@ -123,7 +123,11 @@ Currently completing my M.Tech in Computer Science, applying DevOps principles t
 
 ## 🎓 Background
 
-**M.Tech — Computer Science Engineering** · Research focus on ML-integrated cloud infrastructure  
+| Degree | Institution | Focus |
+|--------|-------------|-------|
+| M.Tech — Computer Science Engineering | Christ University, Bangalore | ML-integrated Cloud Infrastructure , Generative Applied AI|
+| B.Tech — Information Science & Engineering | Cambridge Institute of Technology, Bangalore | Full-Stack , DevOps |
+
 📍 Bangalore, India &nbsp;|&nbsp; Available for remote & hybrid roles
 
 ---
