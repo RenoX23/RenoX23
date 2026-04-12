@@ -18,7 +18,10 @@
 
 I bridge **infrastructure and intelligence** — building automated pipelines, scalable cloud systems, and ML-powered observability tools. My work spans GitOps, anomaly detection on cloud metrics, and phishing detection using NLP and classification models.
 
-Currently completing my M.Tech in Computer Science, applying DevOps principles to MLOps and data-intensive architectures.
+
+Currently exploring **MLOps and GenAI** applications on cloud-native stacks.
+
+`DevOps` `MLOps` `Cloud` `GenAI`
 
 > 🔭 Building: ML-integrated cloud infrastructure &nbsp;|&nbsp; 💼 Open to: DevOps / MLOps / Cloud Engineer / GenAI roles
 
