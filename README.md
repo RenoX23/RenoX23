@@ -1,82 +1,146 @@
-# 👋 Hi, I'm Renold
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Hi%2C%20I'm%20Renold%20%F0%9F%91%8B&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=DevOps%20%7C%20MLOps%20%7C%20Cloud%20Engineer&descAlignY=58&descSize=18" />
+</p>
 
-DevOps & Cloud-focused Software Engineer with hands-on experience in automating infrastructure, building CI/CD pipelines, and deploying scalable systems.
-
-Alongside DevOps, I actively work with **Big Data technologies and cloud-based data pipelines**, bridging the gap between infrastructure and data-intensive applications.
-
----
-
-## 🔧 Core Expertise
-
-### DevOps & Cloud
-- CI/CD: GitHub Actions, Jenkins  
-- Containers & Orchestration: Docker, Kubernetes  
-- Cloud Platforms: AWS (EC2, IAM, S3)  
-- OS & Automation: Linux, Bash  
-
-### Big Data & Distributed Systems
-- Data Processing: Hadoop, Spark (basics + pipelines)  
-- Databases: SQL, NoSQL fundamentals  
-- Data Engineering Concepts: ETL, batch vs streaming, scalability  
-
-### Development
-- Languages: Python, Java, Shell  
-- System-level scripting and automation
+<!-- Status Pills -->
+<p align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to-DevOps%20%7C%20MLOps%20%7C%20Cloud%20Roles-%230A66C2?style=flat-square" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/M.Tech-Computer%20Science%20%7C%20Bangalore-6C5B7B?style=flat-square" />
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=RenoX23&color=0e75b6&style=flat-square&label=Profile+Views" />
+</p>
 
 ---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+## About
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I bridge **infrastructure and intelligence** — building automated pipelines, scalable cloud systems, and ML-powered observability tools. My work spans GitOps, anomaly detection on cloud metrics, and phishing detection using NLP and classification models.
 
+Currently completing my M.Tech in Computer Science, applying DevOps principles to MLOps and data-intensive architectures.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<h3 align="left"></h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-
-
-
-## 🚀 Selected Work
-- End-to-end CI/CD pipelines for containerized applications  
-- Dockerized services deployed on Kubernetes clusters  
-- AWS-based infrastructure setups for compute and storage  
-- Big Data workflows integrated with cloud environments  
-
-(See pinned repositories below 👇)
+> 🔭 Building: ML-integrated cloud infrastructure &nbsp;|&nbsp; 💼 Open to: DevOps / MLOps / Cloud Engineer roles
 
 ---
 
-## 🎓 Academic & Research Background
-- Computer Science Engineer  
-- M.Tech (CSE) postgraduate student  
-- Actively involved in research-oriented and implementation-heavy projects  
+## 🚀 Featured Projects
+
+### 🔁 GitOps Infrastructure Automation & Observability Platform
+> Production-grade GitOps pipeline with real-time ML-ready observability
+
+- Automated Kubernetes cluster sync via **ArgoCD** — Git as the single source of truth, zero manual deployments
+- Configured **Prometheus** custom alert rules + **Grafana** dashboards for pod-level monitoring
+- Achieved automated failure detection within **60 seconds** of anomaly onset
+
+`ArgoCD` `Kubernetes` `Prometheus` `Grafana` `GitHub Actions` `Helm`
 
 ---
 
-## 📫 Contact
-- 📧 Email: renoldstephen23@gmail.com  
-- 🔗 GitHub: https://github.com/RenoX23
+### 🧠 Cloud Anomaly Detection using DBSCAN
+> Unsupervised ML on live cloud infrastructure metrics — no static thresholds
+
+- Applied **DBSCAN clustering** on CPU, memory, and network I/O metrics to detect abnormal workload patterns
+- Engineered epsilon optimization via k-distance method with multi-dimensional visualizations
+- Achieved **~0.90 F1-score** in detecting anomalous infrastructure behavior for auto-scaling triggers
+
+`Python` `Scikit-learn` `DBSCAN` `Pandas` `Matplotlib` `AWS CloudWatch`
 
 ---
 
-⭐ I focus on **automation, scalable systems, and data-aware cloud architectures**.
+### ☁️ Cloud Cost Predictor & Optimizer
+> Time-series ML model forecasting cloud spend with 90.3% accuracy
+
+- Forecasts daily, monthly, and annual cloud spending with **R² = 0.903** and ±$42 prediction range
+- Engineered **24 time-series features** for pattern recognition across usage cycles
+- Confidence intervals for risk-aware budget planning and cost alerting
+
+`Python` `XGBoost` `Time-Series Analysis` `Feature Engineering` `AWS Cost Explorer`
+
+---
+
+### 🎣 Intelligent Phishing Detection System
+> Dual-vector ML + NLP pipeline for URL and email threat detection
+
+- Extracted URL features (length, special characters, redirection patterns) with **~90%+ detection accuracy**
+- Built NLP-based email analysis module to identify social engineering patterns
+- Combined URL + email vectors for broader phishing coverage
+
+`Python` `NLP` `Scikit-learn` `Feature Engineering` `Classification Models`
+
+---
+
+## 🔧 Tech Stack
+
+**DevOps & Cloud**
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-%23EF7B4D.svg?style=flat-square&logo=argo&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black)
+
+**Observability**
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=flat-square&logo=grafana&logoColor=white)
+
+**ML / MLOps**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-%23E25A1C.svg?style=flat-square&logo=apachespark&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-%2366CCFF.svg?style=flat-square&logo=apache&logoColor=black)
+
+**Data & Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RenoX23&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenoX23&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RenoX23&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+## 🎓 Background
+
+**M.Tech — Computer Science Engineering** · Research focus on ML-integrated cloud infrastructure  
+📍 Bangalore, India &nbsp;|&nbsp; Available for remote & hybrid roles
+
+---
+
+## 📫 Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/renoldstephen/">
+    <img src="https://img.shields.io/badge/LinkedIn-Renold%20Stephen-%230A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:renoldstephen23@gmail.com">
+    <img src="https://img.shields.io/badge/Email-renoldstephen23%40gmail.com-%23EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/RenoX23">
+    <img src="https://img.shields.io/badge/GitHub-RenoX23-%23181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<!-- Footer Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" />
+</p>
