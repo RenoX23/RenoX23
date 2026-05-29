@@ -20,9 +20,9 @@ I’m a Computer Science postgraduate focused on building intelligent cloud-nati
 I bridge **infrastructure and intelligence** — building automated pipelines, scalable cloud systems, and ML-powered observability tools. My work spans GitOps, anomaly detection on cloud metrics, and phishing detection using NLP and classification models. My work centers on improving system reliability, automation, and intelligent monitoring.
 
 
-Currently exploring **MLOps and GenAI** applications on cloud-native stacks.
+Currently exploring **Data Engineering and cloud** applications on cloud-native stacks.
 
-`DevOps` `MLOps` `Cloud` `GenAI`
+`Data Engineering` `Devops` `Cloud` `MlOps`
 
 > 🔭 Building: ML-integrated cloud infrastructure &nbsp;|&nbsp; 💼 Open to: DevOps / MLOps / Cloud Engineer / GenAI roles
 
