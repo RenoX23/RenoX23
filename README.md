@@ -27,14 +27,12 @@
 <img src="./assets/status-pills.svg" alt="Open to work and technology focus" width="100%" />
 
 </div>
+<p align="center">
+  <img src="https://img.shields.io/badge/🟢 Open To-AI%2FML%20%7C%20Data%20Engineering%20%7C%20MLOps-%230A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/M.Tech-Computer%20Science%20%7C%20Christ%20University-6C5B7B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📍-Bangalore%2C%20India-2C5364?style=for-the-badge" />
+</p>
 
-<div align="center">
-
-<a href="https://github.com/RenoX23"><img src="https://img.shields.io/badge/GitHub-RenoX23-0b0f14?style=for-the-badge&logo=github&logoColor=white&labelColor=111923" /></a>
-<a href="https://www.linkedin.com/in/renoldstephen/"><img src="https://img.shields.io/badge/LinkedIn-Renold%20Stephen-0b0f14?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=111923" /></a>
-<a href="mailto:renoldstephen23@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0b0f14?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=111923" /></a>
-
-</div>
 
 ~/about
 
@@ -313,6 +311,14 @@ Bangalore · Open to AI/ML, Data & MLOps roles
 <div align="center">
 
 <img src="./assets/connect-terminal.gif" alt="Contact links terminal" width="100%" />
+<div align="center">
+
+<a href="https://github.com/RenoX23"><img src="https://img.shields.io/badge/GitHub-RenoX23-0b0f14?style=for-the-badge&logo=github&logoColor=white&labelColor=111923" /></a>
+<a href="https://www.linkedin.com/in/renoldstephen/"><img src="https://img.shields.io/badge/LinkedIn-Renold%20Stephen-0b0f14?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=111923" /></a>
+<a href="mailto:renoldstephen23@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0b0f14?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=111923" /></a>
+
+</div>
+
 
 <br/><br/>
 
