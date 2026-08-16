@@ -1,40 +1,22 @@
-
-
-
-<!-- Animated Waving Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243e&height=200&section=header&text=Renold%20Stephen&fontSize=48&fontColor=27D97B&fontAlignY=38&desc=AI%20Systems%20%7C%20Data%20Analytics%20%7C%20Machine%20Learning%20%7C%20Data%20Engineering&descAlignY=58&descSize=18" alt="Header Banner" />
-</p>
-
-<!-- Status Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/🟢 Open To-AI%2FML%20%7C%20Data%20Engineering%20%7C%20MLOps-%230A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/M.Tech-Computer%20Science%20%7C%20Christ%20University-6C5B7B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/📍-Bangalore%2C%20India-2C5364?style=for-the-badge" />
-</p>
-
-<div align="center">
-  
-<!-- Animated Neon Typing Terminal -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=27D97B&center=true&vCenter=true&width=800&lines=renox23%40github%3A~%24+whoami;AI+Systems+%26+Machine+Learning+Engineer;renox23%40github%3A~%24+cat+focus.txt;Building+Agent-Based+AI+%26+Cloud-Native+MLOps" alt="Typing SVG" /></a>
-
 <div align="center">
 
-<img src="./assets/avatar.png" width="88" alt="RenoX23 avatar" />
+<img src="./assets/hero-name.gif" alt="Renold Stephen R — AI Systems, Data Engineering, MLOps" width="100%" />
 
-<img src="./assets/session-terminal.gif" alt="Renold Stephen terminal introduction" width="100%" />
-
-<img src="./assets/status-pills.svg" alt="Open to work and technology focus" width="100%" />
+<img src="./assets/status-pills.svg" alt="AI Agents, ML Systems, Data Analytics, MLOps, Data Engineering" width="100%" />
 
 </div>
-<p align="center">
-  <img src="https://img.shields.io/badge/🟢 Open To-AI%2FML%20%7C%20Data%20Engineering%20%7C%20MLOps-%230A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/M.Tech-Computer%20Science%20%7C%20Christ%20University-6C5B7B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/📍-Bangalore%2C%20India-2C5364?style=for-the-badge" />
-</p>
 
+<div align="center">
 
-~/about
+<a href="https://github.com/RenoX23"><img src="https://img.shields.io/badge/GitHub-RenoX23-0b0f14?style=for-the-badge&logo=github&logoColor=white&labelColor=111923" /></a>
+<a href="https://www.linkedin.com/in/renoldstephen/"><img src="https://img.shields.io/badge/LinkedIn-Renold%20Stephen-0b0f14?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=111923" /></a>
+<a href="mailto:renoldstephen23@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0b0f14?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=111923" /></a>
+
+</div>
+
+---
+
+## `~/about`
 
 <div align="center">
 
@@ -42,7 +24,8 @@
 
 </div>
 
-~/workflow
+---
+## `~/workflow`
 
 <div align="center">
 
@@ -50,15 +33,17 @@
 
 </div>
 
-The pattern: turn ambiguous problems into observable systems.
+**The pattern:** turn ambiguous problems into observable systems.
 
-INPUT → REASON → EXECUTE → OBSERVE
+`INPUT` → `REASON` → `EXECUTE` → `OBSERVE`
 
-~/stack
+---
+
+## `~/stack`
 
 <div align="center">
 
-🛠️ Tech Stack & Arsenal
+# 🛠️ Tech Stack & Arsenal
 
 </div>
 
@@ -149,7 +134,9 @@ INPUT → REASON → EXECUTE → OBSERVE
 
 </details>
 
-~/github-stats
+---
+
+## `~/github-stats`
 
 <div align="center">
 
@@ -157,7 +144,9 @@ INPUT → REASON → EXECUTE → OBSERVE
 
 </div>
 
-~/projects
+
+
+## `~/projects`
 
 <div align="center">
 
@@ -165,67 +154,77 @@ INPUT → REASON → EXECUTE → OBSERVE
 
 </div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## 🚀 Featured Projects
 
-🧠 InternIQ
+### 🧠 InternIQ — Multi-Agent Internship Market Analyst
+> Autonomous 4-agent LangGraph pipeline answering natural language business questions over a proprietary internship dataset
 
-Ask the market — not the spreadsheet.
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?style=flat-square&logo=streamlit)](https://interniq-multiagent-analyst-renox23.streamlit.app/)
+[![Repo](https://img.shields.io/badge/GitHub-interniq--multiagent--analyst-181717?style=flat-square&logo=github)](https://github.com/RenoX23/interniq-multiagent-analyst)
 
-A 4-agent LangGraph analyst that turns internship listings into NL → SQL → Viz → Insight workflows over PostgreSQL.
+- Built **LangGraph StateGraph** with 4 typed agent nodes: Planner → SQL Agent → Viz Agent → Insight Agent
+- SQL Agent uses **few-shot prompting** over proprietary schema — 270 scraped Internshala listings, 1,339 skill records
+- Auto-selects chart type (bar/pie/line) based on query semantics; generates 2-3 sentence analyst insight per query
+- Deployed on **Streamlit Cloud** with **Neon serverless PostgreSQL** as backend
 
-LangGraph PostgreSQL Groq Streamlit
+`LangGraph` `LangChain` `Groq LLaMA 3.3` `PostgreSQL` `Streamlit` `Plotly` `Neon`
 
-Repository · Live Demo
+---
 
-</td>
-<td width="50%" valign="top">
+### ⚙️ KubeIQ — Kubernetes Ops Intelligence Agent
+> ML-driven SRE assistant — detects anomalous pods, retrieves runbooks, generates root cause analysis
 
-⚙️ KubeIQ
+[![Repo](https://img.shields.io/badge/GitHub-kubeiq--ops--agent-181717?style=flat-square&logo=github)](https://github.com/RenoX23/kubeiq-ops-agent)
 
-Turn telemetry into evidence-backed RCA.
+- **Isolation Forest** on live Prometheus time-series (CPU, memory, restarts) — flags statistical outliers across all pods
+- **TF-IDF RAG** retrieves relevant SRE runbooks per anomaly; no heavy embedding models required
+- **LLM reasoning layer** produces structured Root Cause → Evidence → Remediation per flagged pod
+- Stress-tested with real fault injection: cpu-stress pod flagged at 1.34 cores → LLM diagnosed "runaway process"
 
-Isolation Forest detects anomalous Kubernetes pods; TF-IDF RAG retrieves runbooks; an LLM produces structured Root Cause → Evidence → Remediation.
+`Isolation Forest` `Prometheus` `Kind` `TF-IDF RAG` `Groq LLaMA 3.3` `Helm` `Streamlit`
 
-Isolation Forest Prometheus RAG Kubernetes
+---
 
-Repository
+### 📊 India Tech Internship Market Intelligence
+> End-to-end scraping → PostgreSQL → SQL analytics → Power BI dashboard
 
-</td>
-</tr>
+[![Repo](https://img.shields.io/badge/GitHub-job--market--intelligence-181717?style=flat-square&logo=github)](https://github.com/RenoX23/job-market-intelligence)
 
-<tr>
-<td width="50%" valign="top">
+- Scraped **757 Internshala listings** via BeautifulSoup; cleaned to 270 relevant records with 1,339 skill tags
+- SQL analysis with **CTEs and window functions** — stipend benchmarking, skill demand ranking, location heatmaps
+- 4-page **Power BI dashboard** — key finding: ML roles pay 2.4x more than DA roles (₹15.9K vs ₹6.5K/month)
 
-📈 DORA Metrics
+`Python` `BeautifulSoup` `PostgreSQL` `SQL` `Power BI` `Pandas`
 
-Turn GitHub activity into engineering signals.
+---
 
-GitHub API → SQLite → Streamlit pipeline that converts PRs, releases, and issues into measurable delivery intelligence.
+### 📈 DORA Metrics Engineering Dashboard
+> GitHub API → SQLite → Streamlit — real DORA metrics across 5 open-source engineering orgs
 
-PyGithub SQLite Streamlit Plotly
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?style=flat-square&logo=streamlit)](https://renox23-dora-metrics-dashboard.streamlit.app/)
+[![Repo](https://img.shields.io/badge/GitHub-dora--metrics--dashboard-181717?style=flat-square&logo=github)](https://github.com/RenoX23/dora-metrics-dashboard)
 
-Repository · Live Demo
+- Ingested 1,000 PRs, 250 releases, 1,000 issues via **PyGithub** across dbt-core, ArgoCD, Grafana, Airflow, Prometheus
+- Computed weighted health scores: dbt-core 81.2 · ArgoCD 75.0 · Grafana 75.0
+- Deployed on Streamlit Cloud with automated data refresh
 
-</td>
-<td width="50%" valign="top">
+`Python` `PyGithub` `SQLite` `Streamlit` `Plotly` `DORA Metrics`
 
-🔁 GitOps Monitoring
+---
 
-Make Git the operational control plane.
+### 🏠 Bangalore Rental Market Intelligence
+> 886-listing dataset → zone-mapped analytics → Streamlit dashboard
 
-ArgoCD reconciles deployments, Terraform provisions infrastructure, and Prometheus + Grafana provide the feedback loop.
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?style=flat-square&logo=streamlit)](https://renox23-bangalore-rental-dashboard.streamlit.app/)
+[![Repo](https://img.shields.io/badge/GitHub-bangalore--rental--dashboard-181717?style=flat-square&logo=github)](https://github.com/RenoX23/bangalore-rental-dashboard)
 
-ArgoCD Terraform Prometheus Grafana
+- Mapped 127 localities to 6 Bangalore zones; engineered price-per-sqft metric across segments
+- Key finding: Ramamurthy Nagar/K R Puram best value at ₹13-14/sqft vs Whitefield ₹31/sqft
 
-Repository
+`Python` `Pandas` `PostgreSQL` `Streamlit` `Plotly`
 
-</td>
-</tr>
-</table>
-
-~/education
+---
+## `~/education`
 
 <div align="center">
 
@@ -233,54 +232,25 @@ Repository
 
 </div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## 🎓 Background
 
-🎓 M.Tech — Computer Science
+| Degree | Institution | Focus |
+|--------|-------------|-------|
+| M.Tech — Computer Science | Christ University, Bangalore | AI Systems · Data Engineering · Cloud-Native MLOps |
+| B.Tech — Information Science | Cambridge Institute of Technology | Full-Stack · DevOps |
 
-Christ University, Bangalore
+📝 **Published:** YOLOv5 + Raspberry Pi Assistive Navigation System — IJIRT 2025  
+🎓 **Microsoft Learn Student Ambassador**  
+📍 Bangalore · Available immediately · On-site / Hybrid / Remote
 
-AI Systems · Data Engineering · Cloud-Native MLOps
+---
 
-</td>
-<td width="50%" valign="top">
 
-💻 B.E. — Information Science
 
-Cambridge Institute of Technology
 
-Full-Stack Development · DevOps · Systems Engineering
+## `~/activity`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 
-📜 Publication
-
-YOLOv5 + Raspberry Pi Assistive Navigation System
-
-Published in IJIRT · 2025
-
-</td>
-<td width="50%" valign="top">
-
-🏆 Recognition
-
-Microsoft Learn Student Ambassador
-
-Bangalore · Open to AI/ML, Data & MLOps roles
-
-</td>
-</tr>
-</table>
-
-~/activity
-
-<div align="center">
-
-<img src="./assets/contributions-heatmap.gif" alt="Terminal-style activity visualization" width="100%" />
 
 <br/>
 
@@ -306,33 +276,29 @@ Bangalore · Open to AI/ML, Data & MLOps roles
 
 </div>
 
-~/connect
+---
+
+## `~/connect`
 
 <div align="center">
 
 <img src="./assets/connect-terminal.gif" alt="Contact links terminal" width="100%" />
-<div align="center">
-
-<a href="https://github.com/RenoX23"><img src="https://img.shields.io/badge/GitHub-RenoX23-0b0f14?style=for-the-badge&logo=github&logoColor=white&labelColor=111923" /></a>
-<a href="https://www.linkedin.com/in/renoldstephen/"><img src="https://img.shields.io/badge/LinkedIn-Renold%20Stephen-0b0f14?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=111923" /></a>
-<a href="mailto:renoldstephen23@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0b0f14?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=111923" /></a>
-
-</div>
-
 
 <br/><br/>
 
+[![GitHub](https://img.shields.io/badge/GitHub-RenoX23-0b0f14?style=for-the-badge&logo=github&logoColor=white&labelColor=111923)](https://github.com/RenoX23)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Renold%20Stephen-0b0f14?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=111923)](https://www.linkedin.com/in/renoldstephen/)
+[![Email](https://img.shields.io/badge/Email-renoldstephen23-0b0f14?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=111923)](mailto:renoldstephen23@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-renold--cloudfolio-0b0f14?style=for-the-badge&logo=netlify&logoColor=00C7B7&labelColor=111923)](https://renold-cloudfolio.netlify.app/)
 
-
-
-
-
-> let's build something useful together.
+### `> let's build something useful together.`
 
 </div>
 
+---
+
 <div align="center">
 
-RenoX23 · AI Systems · Data Engineering · MLOps
+`RenoX23` · AI Systems · Data Engineering · MLOps
 
 </div>
