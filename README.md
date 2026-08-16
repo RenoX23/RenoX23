@@ -92,6 +92,7 @@
 
 <br/>
 
+
 <details open>
 <summary><b>🤖 AI & Data Science</b></summary>
 
@@ -99,20 +100,29 @@
 
 <div align="center">
 
-<a href="#"><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,numpy,pandas,opencv&theme=dark" alt="AI and data science technologies" /></a>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark"
+     alt="TensorFlow, PyTorch and OpenCV"
+     height="72" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white" alt="LangChain" />
-<img src="https://img.shields.io/badge/LangGraph-302B63?style=for-the-badge&logoColor=white" alt="LangGraph" />
-<img src="https://img.shields.io/badge/RAG-4A90D9?style=for-the-badge" alt="RAG" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"
+     alt="NumPy" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"
+     alt="Pandas" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"
+     alt="Scikit-learn" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"
+     alt="LangChain" />
+<img src="https://img.shields.io/badge/LangGraph-302B63?style=for-the-badge"
+     alt="LangGraph" />
+<img src="https://img.shields.io/badge/RAG-4A90D9?style=for-the-badge"
+     alt="RAG" />
 
 </div>
 
 </details>
 
-<br/>
 
 <details open>
 <summary><b>⚙️ Infrastructure & MLOps</b></summary>
