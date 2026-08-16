@@ -1,5 +1,61 @@
+
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="128" viewBox="0 0 1200 128">
-<rect width="100%" height="100%" rx="18" fill="#0b0f14"/>
-<rect x="1" y="1" width="1198" height="126" rx="18" fill="none" stroke="#243242" stroke-width="2"/>
-<rect x="25" y="40" width="202" height="48" rx="24" fill="#111923" stroke="#243242"/><text x="126.0" y="70" text-anchor="middle" font-family="DejaVu Sans Mono, monospace" font-size="15" font-weight="700" fill="#2de2c4">● AI SYSTEMS</text><rect x="241" y="40" width="118" height="48" rx="24" fill="#111923" stroke="#243242"/><text x="300.0" y="70" text-anchor="middle" font-family="DejaVu Sans Mono, monospace" font-size="15" font-weight="700" fill="#5aa9ff">MACHINE LEARNING</text><rect x="373" y="40" width="226" height="48" rx="24" fill="#111923" stroke="#243242"/><text x="486.0" y="70" text-anchor="middle" font-family="DejaVu Sans Mono, monospace" font-size="15" font-weight="700" fill="#a78bfa">DATA ANALYTICS</text><rect x="613" y="40" width="94" height="48" rx="24" fill="#111923" stroke="#243242"/><text x="660.0" y="70" text-anchor="middle" font-family="DejaVu Sans Mono, monospace" font-size="15" font-weight="700" fill="#79ffe8">MLOps</text><rect x="721" y="40" width="142" height="48" rx="24" fill="#111923" stroke="#243242"/><text x="792.0" y="70" text-anchor="middle" font-family="DejaVu Sans Mono, monospace" font-size="15" font-weight="700" fill="#8b98a8">DATA ENGINEERING</text>
+  <rect width="100%" height="100%" rx="18" fill="#0b0f14"/>
+  <rect x="1" y="1" width="1198" height="126" rx="18"
+        fill="none" stroke="#243242" stroke-width="2"/>
+
+  <rect x="25" y="40" width="144" height="48" rx="24"
+        fill="#111923" stroke="#243242"/>
+  <text x="97" y="70"
+        text-anchor="middle"
+        font-family="DejaVu Sans Mono, monospace"
+        font-size="15"
+        font-weight="700"
+        fill="#2de2c4">
+    AI AGENTS
+  </text>
+
+  <rect x="183" y="40" width="142" height="48" rx="24"
+        fill="#111923" stroke="#243242"/>
+  <text x="254" y="70"
+        text-anchor="middle"
+        font-family="DejaVu Sans Mono, monospace"
+        font-size="15"
+        font-weight="700"
+        fill="#5aa9ff">
+    ML SYSTEMS
+  </text>
+
+  <rect x="339" y="40" width="184" height="48" rx="24"
+        fill="#111923" stroke="#243242"/>
+  <text x="431" y="70"
+        text-anchor="middle"
+        font-family="DejaVu Sans Mono, monospace"
+        font-size="15"
+        font-weight="700"
+        fill="#a78bfa">
+    DATA ANALYTICS
+  </text>
+
+  <rect x="537" y="40" width="94" height="48" rx="24"
+        fill="#111923" stroke="#243242"/>
+  <text x="584" y="70"
+        text-anchor="middle"
+        font-family="DejaVu Sans Mono, monospace"
+        font-size="15"
+        font-weight="700"
+        fill="#79ffe8">
+    MLOps
+  </text>
+
+  <rect x="645" y="40" width="202" height="48" rx="24"
+        fill="#111923" stroke="#243242"/>
+  <text x="746" y="70"
+        text-anchor="middle"
+        font-family="DejaVu Sans Mono, monospace"
+        font-size="15"
+        font-weight="700"
+        fill="#8b98a8">
+    DATA ENGINEERING
+  </text>
 </svg>
