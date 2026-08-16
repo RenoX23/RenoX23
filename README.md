@@ -7,14 +7,27 @@
 </div>
 
 <div align="center">
-
+<br>
 <a href="https://github.com/RenoX23"><img src="https://img.shields.io/badge/GitHub-RenoX23-0b0f14?style=for-the-badge&logo=github&logoColor=white&labelColor=111923" /></a>
 <a href="https://www.linkedin.com/in/renoldstephen/"><img src="https://img.shields.io/badge/LinkedIn-Renold%20Stephen-0b0f14?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=111923" /></a>
 <a href="mailto:renoldstephen23@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0b0f14?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=111923" /></a>
 
 </div>
+<br>
+<div align="center">
 
----
+<a href="https://github.com/RenoX23">
+<img src="https://img.shields.io/github/followers/RenoX23?style=flat-square&label=Followers&color=2de2c4&labelColor=111923" />
+</a>
+<a href="https://github.com/RenoX23?tab=stars">
+<img src="https://img.shields.io/github/stars/RenoX23?affiliations=OWNER&style=flat-square&label=Stars&color=5aa9ff&labelColor=111923" />
+</a>
+<a href="https://komarev.com/ghpvc/?username=RenoX23">
+<img src="https://komarev.com/ghpvc/?username=RenoX23&style=flat-square&color=a78bfa&label=Profile%20Views" />
+</a>
+
+</div>
+
 
 ## `~/about`
 
@@ -299,7 +312,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-RenoX23-0b0f14?style=for-the-badge&logo=github&logoColor=white&labelColor=111923)](https://github.com/RenoX23)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Renold%20Stephen-0b0f14?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=111923)](https://www.linkedin.com/in/renoldstephen/)
 [![Email](https://img.shields.io/badge/Email-renoldstephen23-0b0f14?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=111923)](mailto:renoldstephen23@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-renold--cloudfolio-0b0f14?style=for-the-badge&logo=netlify&logoColor=00C7B7&labelColor=111923)](https://renold-cloudfolio.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-renold--portfolio-0b0f14?style=for-the-badge&logo=netlify&logoColor=00C7B7&labelColor=111923)](https://renox23-portfolio.vercel.app/)
 
 ### `> let's build something useful together.`
 
