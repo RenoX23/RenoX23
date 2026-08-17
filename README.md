@@ -314,7 +314,7 @@
 [![Email](https://img.shields.io/badge/Email-renoldstephen23-0b0f14?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=111923)](mailto:renoldstephen23@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-renold--portfolio-0b0f14?style=for-the-badge&logo=netlify&logoColor=00C7B7&labelColor=111923)](https://renox23-portfolio.vercel.app/)
 
-### `> let's build something useful together.`
+### `> let's build something End to End.`
 
 </div>
 
@@ -322,6 +322,6 @@
 
 <div align="center">
 
-`RenoX23` · AI Systems · Data Engineering · MLOps
+`RenoX23` · AI Systems · Data Engineering · MLOps · Data Analytics
 
 </div>
