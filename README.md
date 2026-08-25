@@ -274,30 +274,17 @@
 
 
 
-## '~/telemetry'
+
+
+## `~/telemetry`
 
 <div align="center">
 
-<img src="./assets/telemetry-terminal.gif" alt="GitHub telemetry and open-source shipping profile" width="100%" />
-
-<br/>
-
-<a href="https://github.com/RenoX23">
-<img src="https://img.shields.io/github/followers/RenoX23?style=flat-square&label=Followers&color=2de2c4&labelColor=111923" />
-</a>
-<a href="https://github.com/RenoX23?tab=stars">
-<img src="https://img.shields.io/github/stars/RenoX23?affiliations=OWNER&style=flat-square&label=Stars&color=5aa9ff&labelColor=111923" />
-</a>
-<a href="https://github.com/RenoX23?tab=repositories">
-<img src="https://img.shields.io/badge/Public%20Repos-42-a78bfa?style=flat-square&labelColor=111923" />
-</a>
-<a href="https://komarev.com/ghpvc/?username=RenoX23">
-<img src="https://komarev.com/ghpvc/?username=RenoX23&style=flat-square&color=8b98a8&label=Profile%20Views" />
-</a>
+<img src="./assets/telemetry.svg" alt="GitHub telemetry" width="100%" />
 
 </div>
 
-
+---
 ---
 
 ## `~/connect`
