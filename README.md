@@ -22,6 +22,8 @@
 <img src="./assets/status-pills.svg" alt="AI Agents, ML Systems, Data Analytics, MLOps, Data Engineering" width="100%" />
 
 </div>
+<br>
+<div align="center"> <a href="https://github.com/RenoX23"> <img src="https://img.shields.io/github/followers/RenoX23?style=flat-square&label=Followers&color=2de2c4&labelColor=111923" /> </a> <a href="https://github.com/RenoX23?tab=stars"> <img src="https://img.shields.io/github/stars/RenoX23?affiliations=OWNER&style=flat-square&label=Stars&color=5aa9ff&labelColor=111923" /> </a> <a href="https://komarev.com/ghpvc/?username=RenoX23"> <img src="https://komarev.com/ghpvc/?username=RenoX23&style=flat-square&color=a78bfa&label=Profile%20Views" /> </a> </div>
 
 ---
 
