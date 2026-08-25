@@ -271,21 +271,16 @@
 
 
 
-## `~/activity`
 
 
 
-<br/>
-
-<a href="https://github.com/RenoX23">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RenoX23&bg_color=0b0f14&color=2de2c4&line=2de2c4&point=ffffff&area=true&hide_border=true&custom_title=LIVE%20GITHUB%20ACTIVITY" alt="Live GitHub activity graph" width="100%" />
-</a>
-
-</div>
-
-<br/>
+## '~/telemetry'
 
 <div align="center">
+
+<img src="./assets/telemetry-terminal.gif" alt="GitHub telemetry and open-source shipping profile" width="100%" />
+
+<br/>
 
 <a href="https://github.com/RenoX23">
 <img src="https://img.shields.io/github/followers/RenoX23?style=flat-square&label=Followers&color=2de2c4&labelColor=111923" />
@@ -293,11 +288,15 @@
 <a href="https://github.com/RenoX23?tab=stars">
 <img src="https://img.shields.io/github/stars/RenoX23?affiliations=OWNER&style=flat-square&label=Stars&color=5aa9ff&labelColor=111923" />
 </a>
+<a href="https://github.com/RenoX23?tab=repositories">
+<img src="https://img.shields.io/badge/Public%20Repos-42-a78bfa?style=flat-square&labelColor=111923" />
+</a>
 <a href="https://komarev.com/ghpvc/?username=RenoX23">
-<img src="https://komarev.com/ghpvc/?username=RenoX23&style=flat-square&color=a78bfa&label=Profile%20Views" />
+<img src="https://komarev.com/ghpvc/?username=RenoX23&style=flat-square&color=8b98a8&label=Profile%20Views" />
 </a>
 
 </div>
+
 
 ---
 
