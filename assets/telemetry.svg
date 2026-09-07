@@ -29,10 +29,10 @@
   <line x1="46" y1="162" x2="1090" y2="162" stroke="#233442" stroke-width="1"/>
 
   <text x="46" y="198" class="mono body">PUBLIC REPOS</text>
-  <text x="310" y="198" class="mono body">43</text>
+  <text x="310" y="198" class="mono body">48</text>
 
   <text x="46" y="232" class="mono body">STARS</text>
-  <text x="310" y="232" class="mono body">15</text>
+  <text x="310" y="232" class="mono body">18</text>
 
   <text x="46" y="266" class="mono body">FOLLOWERS</text>
   <text x="310" y="266" class="mono body">6</text>
@@ -41,13 +41,13 @@
   <text x="1116" y="310" text-anchor="end" class="mono accent" font-size="24" font-weight="700">✓</text>
 
   <text x="46" y="344" class="mono body">OPEN-SOURCE TOOLS</text>
-  <rect x="310" y="326" width="314" height="22" rx="3" fill="#39d6c0"/>
+  <rect x="310" y="326" width="349" height="22" rx="3" fill="#39d6c0"/>
 
   <text x="46" y="376" class="mono body">PUBLIC DATASETS</text>
   <rect x="310" y="358" width="210" height="22" rx="3" fill="#28756f"/>
 
   <text x="46" y="408" class="mono body">AI SYSTEMS</text>
-  <rect x="310" y="390" width="389" height="22" rx="3" fill="#4a6f8e"/>
+  <rect x="310" y="390" width="418" height="22" rx="3" fill="#4a6f8e"/>
 
   <text x="800" y="348" class="mono label">CURRENT MODE</text>
   <text x="800" y="380" class="mono accent" font-size="18" font-weight="700">
