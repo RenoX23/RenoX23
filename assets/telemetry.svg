@@ -35,7 +35,7 @@
   <text x="310" y="232" class="mono body">22</text>
 
   <text x="46" y="266" class="mono body">FOLLOWERS</text>
-  <text x="310" y="266" class="mono body">6</text>
+  <text x="310" y="266" class="mono body">5</text>
 
   <text x="46" y="310" class="mono label">SHIPPED</text>
   <text x="1116" y="310" text-anchor="end" class="mono accent" font-size="24" font-weight="700">✓</text>
@@ -44,7 +44,7 @@
   <rect x="310" y="326" width="395" height="22" rx="3" fill="#39d6c0"/>
 
   <text x="46" y="376" class="mono body">PUBLIC DATASETS</text>
-  <rect x="310" y="358" width="210" height="22" rx="3" fill="#28756f"/>
+  <rect x="310" y="358" width="198" height="22" rx="3" fill="#28756f"/>
 
   <text x="46" y="408" class="mono body">AI SYSTEMS</text>
   <rect x="310" y="390" width="430" height="22" rx="3" fill="#4a6f8e"/>
