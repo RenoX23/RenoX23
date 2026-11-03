@@ -1,0 +1,10 @@
+# Resumes
+resumes/
+
+# Reference materials
+references/
+*.zip
+
+# Python caches
+__pycache__/
+*.py[cod]

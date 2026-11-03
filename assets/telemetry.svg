@@ -2,55 +2,62 @@
   <defs>
     <style>
       .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace; }
-      .body { font-size: 17px; fill: #e7edf2; }
-      .label { font-size: 16px; font-weight: 700; fill: #e7edf2; }
-      .muted { fill: #83919e; }
-      .accent { fill: #39d6c0; }
+      .body { font-size: 17px; fill: #EDF0F7; }
+      .label { font-size: 16px; font-weight: 700; fill: #EDF0F7; letter-spacing: 1.5px; }
+      .muted { fill: #7C8699; }
+      .accent { fill: #2DE2C4; }
     </style>
   </defs>
 
-  <rect width="1200" height="430" rx="22" fill="#090d12"/>
-  <rect x="2" y="2" width="1196" height="426" rx="22" fill="none" stroke="#233442" stroke-width="2"/>
+  <rect width="1200" height="430" rx="16" fill="#08090C"/>
+  <rect x="1" y="1" width="1198" height="428" rx="15" fill="none" stroke="#1B2130" stroke-width="1.5"/>
 
-  <rect x="20" y="20" width="1160" height="44" rx="10" fill="#141c25"/>
-  <circle cx="42" cy="42" r="6" fill="#ff5f56"/>
-  <circle cx="64" cy="42" r="6" fill="#ffbd2e"/>
-  <circle cx="86" cy="42" r="6" fill="#27d16f"/>
+  <rect x="20" y="20" width="1160" height="44" rx="10" fill="#0C0F17"/>
+  <rect x="20" y="20" width="1160" height="44" rx="10" fill="none" stroke="#1B2130" stroke-width="1"/>
+  <circle cx="44" cy="42" r="6" fill="#FF5F56"/>
+  <circle cx="66" cy="42" r="6" fill="#FFBD2E"/>
+  <circle cx="88" cy="42" r="6" fill="#27D16F"/>
 
-  <text x="600" y="47" text-anchor="middle" class="mono muted" font-size="15">
+  <text x="600" y="47" text-anchor="middle" class="mono muted" font-size="14" letter-spacing="0.5">
     renox23@github: ~ — ./telemetry.sh
   </text>
-
-  <text x="46" y="100" class="mono accent" font-size="17" font-weight="700">
-    renox23:~$ ./telemetry.sh
+  <text x="1150" y="47" text-anchor="end" class="mono muted" font-size="12" letter-spacing="1">
+    BENGALURU · 12.97° N, 77.59° E
   </text>
 
-  <text x="46" y="146" class="mono label">PROFILE</text>
-  <line x1="46" y1="162" x2="1090" y2="162" stroke="#233442" stroke-width="1"/>
+  <text x="46" y="102" class="mono accent" font-size="17" font-weight="700">
+    renox23:~$ ./telemetry.sh --mode=production
+  </text>
+
+  <text x="46" y="146" class="mono label">PROFILE VITALS</text>
+  <line x1="46" y1="162" x2="1154" y2="162" stroke="#1B2130" stroke-width="1"/>
 
   <text x="46" y="198" class="mono body">PUBLIC REPOS</text>
-  <text x="310" y="198" class="mono body">53</text>
+  <text x="310" y="198" class="mono body" font-weight="700">53</text>
 
   <text x="46" y="232" class="mono body">STARS</text>
-  <text x="310" y="232" class="mono body">22</text>
+  <text x="310" y="232" class="mono body" font-weight="700">22</text>
 
   <text x="46" y="266" class="mono body">FOLLOWERS</text>
-  <text x="310" y="266" class="mono body">5</text>
+  <text x="310" y="266" class="mono body" font-weight="700">5</text>
 
-  <text x="46" y="310" class="mono label">SHIPPED</text>
-  <text x="1116" y="310" text-anchor="end" class="mono accent" font-size="24" font-weight="700">✓</text>
+  <text x="46" y="310" class="mono label">SHIPPED ARTIFACTS</text>
+  <text x="1154" y="310" text-anchor="end" class="mono accent" font-size="20" font-weight="700">LIVE</text>
 
   <text x="46" y="344" class="mono body">OPEN-SOURCE TOOLS</text>
-  <rect x="310" y="326" width="395" height="22" rx="3" fill="#39d6c0"/>
+  <rect x="310" y="326" width="395" height="22" rx="4" fill="#2DE2C4"/>
 
   <text x="46" y="376" class="mono body">PUBLIC DATASETS</text>
-  <rect x="310" y="358" width="198" height="22" rx="3" fill="#28756f"/>
+  <rect x="310" y="358" width="198" height="22" rx="4" fill="#5AA9FF"/>
 
   <text x="46" y="408" class="mono body">AI SYSTEMS</text>
-  <rect x="310" y="390" width="430" height="22" rx="3" fill="#4a6f8e"/>
+  <rect x="310" y="390" width="430" height="22" rx="4" fill="#A78BFA"/>
 
-  <text x="800" y="348" class="mono label">CURRENT MODE</text>
-  <text x="800" y="380" class="mono accent" font-size="18" font-weight="700">
-    BUILD · SHIP · ITERATE
+  <text x="820" y="344" class="mono label">ENGINEERING STATUS</text>
+  <text x="820" y="376" class="mono accent" font-size="16" font-weight="700">
+    ● OPEN TO WORK
+  </text>
+  <text x="820" y="402" class="mono muted" font-size="13">
+    AI Systems · MLOps · Data Engineering
   </text>
 </svg>

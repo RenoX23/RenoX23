@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 320" width="100%" height="320" role="img" aria-label="Renold Stephen R — AI Systems, MLOps, Data Engineering">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#08090C" />
+      <stop offset="100%" stop-color="#0E121A" />
+    </linearGradient>
+    <linearGradient id="tealGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2DE2C4" />
+      <stop offset="100%" stop-color="#5AA9FF" />
+    </linearGradient>
+    <pattern id="dotPattern" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#1A2333" opacity="0.6"/>
+    </pattern>
+    <clipPath id="typingClip">
+      <rect x="52" y="146" width="790" height="30" class="typeClip"/>
+    </clipPath>
+  </defs>
+
+  <style>
+    .mono { font-family: ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Monaco, Consolas, "Liberation Mono", monospace; }
+    .fade { opacity: 0; animation: fadeIn 0.8s ease forwards; }
+    .rise1 { opacity: 0; animation: riseUp 0.8s cubic-bezier(0.16, 1, 0.3, 1) 0.15s forwards; }
+    .rise2 { opacity: 0; animation: riseUp 0.8s cubic-bezier(0.16, 1, 0.3, 1) 0.3s forwards; }
+    .rise3 { opacity: 0; animation: riseUp 0.8s cubic-bezier(0.16, 1, 0.3, 1) 0.45s forwards; }
+    .pulse { animation: pulseAnim 2.2s infinite ease-in-out; }
+    .blink { animation: blinkAnim 1s step-end infinite; }
+    .typeClip { width: 0; animation: typeReveal 1.6s steps(42, end) 0.6s forwards; }
+
+    @keyframes fadeIn { to { opacity: 1; } }
+    @keyframes riseUp {
+      from { opacity: 0; transform: translateY(10px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    @keyframes pulseAnim {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.35; }
+    }
+    @keyframes blinkAnim {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
+    }
+    @keyframes typeReveal {
+      to { width: 790px; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .fade, .rise1, .rise2, .rise3 { opacity: 1 !important; transform: none !important; animation: none !important; }
+      .typeClip { width: 790px !important; animation: none !important; }
+      .pulse, .blink { animation: none !important; opacity: 1 !important; }
+    }
+  </style>
+
+  <!-- Frame Background -->
+  <rect width="900" height="320" rx="14" fill="url(#bgGrad)" />
+  <rect width="900" height="320" rx="14" fill="url(#dotPattern)" />
+  <rect x="0.75" y="0.75" width="898.5" height="318.5" rx="13.25" fill="none" stroke="#1B2130" stroke-width="1.5" />
+
+  <!-- Window Bar -->
+  <rect x="0" y="0" width="900" height="42" rx="14" fill="#0C0F17" />
+  <rect x="0" y="28" width="900" height="14" fill="#0C0F17" />
+  <line x1="0" y1="42" x2="900" y2="42" stroke="#1B2130" stroke-width="1" />
+
+  <!-- Terminal Window Controls -->
+  <circle cx="28" cy="21" r="5.5" fill="#FF5F56" />
+  <circle cx="48" cy="21" r="5.5" fill="#FFBD2E" />
+  <circle cx="68" cy="21" r="5.5" fill="#27D16F" />
+
+  <!-- Terminal Prompt Title Bar -->
+  <text x="96" y="25" class="mono fade" font-size="12" fill="#7C8699" letter-spacing="0.5">renold@renox23: ~/ai-systems</text>
+  <text x="872" y="25" class="mono fade" font-size="11" fill="#4E5A6E" text-anchor="end" letter-spacing="1.5">BENGALURU, IN · 12.97° N, 77.59° E</text>
+
+  <!-- Hero Content -->
+  <g class="rise1">
+    <text x="52" y="94" class="mono" font-size="34" font-weight="700" fill="#EDF0F7" letter-spacing="-0.8">Renold Stephen R</text>
+    <rect x="420" y="74" width="136" height="24" rx="12" fill="#131C28" stroke="#1F2E42" stroke-width="1"/>
+    <circle cx="434" cy="86" r="3.5" fill="#2DE2C4" class="pulse"/>
+    <text x="446" y="90" class="mono" font-size="10.5" font-weight="600" fill="#2DE2C4" letter-spacing="0.8">M.TECH CS</text>
+
+    <rect x="566" y="74" width="168" height="24" rx="12" fill="#11221E" stroke="#1C3D35" stroke-width="1"/>
+    <circle cx="580" cy="86" r="3.5" fill="#2DE2C4" class="pulse"/>
+    <text x="592" y="90" class="mono" font-size="10.5" font-weight="600" fill="#2DE2C4" letter-spacing="1">OPEN TO WORK</text>
+  </g>
+
+  <!-- Subtitle -->
+  <g class="rise2">
+    <text x="52" y="126" class="mono" font-size="15" font-weight="500" fill="url(#tealGrad)" letter-spacing="0.8">
+      AI Systems Engineer · Production MLOps · Data Platform
+    </text>
+  </g>
+
+  <!-- Terminal Prompt Line -->
+  <g class="rise3">
+    <rect x="52" y="148" width="796" height="34" rx="6" fill="#0C1018" stroke="#172233" stroke-width="1" />
+    <text x="68" y="170" class="mono" font-size="13" font-weight="600" fill="#2DE2C4">&gt;</text>
+    <g clip-path="url(#typingClip)">
+      <text x="86" y="170" class="mono" font-size="12.5" fill="#D3DCE8" letter-spacing="0.4">
+        fusing low-latency inference, hybrid RAG with guardrails &amp; observable MLOps
+      </text>
+    </g>
+    <rect x="748" y="158" width="8" height="15" fill="#2DE2C4" class="blink"/>
+  </g>
+
+  <!-- Bottom Spec Strip -->
+  <g class="fade" style="animation-delay: 0.6s;">
+    <line x1="52" y1="210" x2="848" y2="210" stroke="#1B2130" stroke-width="1" />
+
+    <text x="52" y="238" class="mono" font-size="10" font-weight="600" fill="#58677D" letter-spacing="2">CORE ARCHITECTURES</text>
+    <text x="52" y="262" class="mono" font-size="12" fill="#9BA8BA">Hybrid RAG · Agentic Workflows · Zero-Day Fraud Detection · Star Schema Analytics</text>
+
+    <text x="52" y="292" class="mono" font-size="11" fill="#58677D">
+      <tspan fill="#2DE2C4">19.1ms P99</tspan> Latency · <tspan fill="#2DE2C4">96.6%</tspan> Ragas Faithfulness · <tspan fill="#2DE2C4">0.992</tspan> PR-AUC · <tspan fill="#2DE2C4">4+</tspan> OSS Tools · <tspan fill="#2DE2C4">1</tspan> IP Copyright
+    </text>
+  </g>
+</svg>

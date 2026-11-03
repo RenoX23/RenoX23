@@ -1,71 +1,81 @@
 <div align="center">
 
-<img src="./assets/hero-name.gif" alt="Renold Stephen R — AI Systems, Data Analytics, MLOps, Data Engineering" width="100%" />
+<img src="./assets/hero.svg" alt="Renold Stephen R — AI Systems, Production MLOps, Data Platform" width="100%" />
 
 <br/>
 
-<a href="https://github.com/RenoX23">
-  <img src="https://img.shields.io/badge/GitHub-RenoX23-0b0f14?style=for-the-badge&logo=github&logoColor=white&labelColor=111923" />
-</a>
-<a href="https://www.linkedin.com/in/renoldstephen/">
-  <img src="https://img.shields.io/badge/LinkedIn-Renold%20Stephen-0b0f14?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=111923" />
-</a>
-<a href="mailto:renoldstephen23@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-0b0f14?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=111923" />
-</a>
 <a href="https://renox23-portfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-View-0b0f14?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111923" />
+  <img src="https://img.shields.io/badge/PORTFOLIO-renox23--portfolio-08090C?style=flat-square&logo=vercel&logoColor=2DE2C4&labelColor=0C0F17" alt="Portfolio" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/renoldstephen/">
+  <img src="https://img.shields.io/badge/LINKEDIN-renoldstephen-08090C?style=flat-square&logo=linkedin&logoColor=5AA9FF&labelColor=0C0F17" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="mailto:renoldstephen@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-renoldstephen%40gmail.com-08090C?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=0C0F17" alt="Email" />
+</a>
+&nbsp;
+<a href="https://github.com/RenoX23">
+  <img src="https://img.shields.io/badge/GITHUB-RenoX23-08090C?style=flat-square&logo=github&logoColor=EDF0F7&labelColor=0C0F17" alt="GitHub" />
 </a>
 
 <br/><br/>
 
-<img src="./assets/status-pills.svg" alt="AI Agents, ML Systems, Data Analytics, MLOps, Data Engineering" width="100%" />
+<img src="./assets/metrics-bar.svg" alt="Production Vitals & SLA Benchmarks" width="100%" />
 
 </div>
-<br>
-<div align="center"> <a href="https://github.com/RenoX23"> <img src="https://img.shields.io/github/followers/RenoX23?style=flat-square&label=Followers&color=2de2c4&labelColor=111923" /> </a> <a href="https://github.com/RenoX23?tab=stars"> <img src="https://img.shields.io/github/stars/RenoX23?affiliations=OWNER&style=flat-square&label=Stars&color=5aa9ff&labelColor=111923" /> </a> <a href="https://komarev.com/ghpvc/?username=RenoX23"> <img src="https://komarev.com/ghpvc/?username=RenoX23&style=flat-square&color=a78bfa&label=Profile%20Views" /> </a> </div>
+
+<br/>
 
 ---
 
-## `~/identity`
+### `01 // IDENTITY & ENGINEERING FOCUS`
 
 <table>
 <tr>
-<td width="62%" valign="top">
+<td width="64%" valign="top">
 
-### 🤖 AI Systems Engineer
+#### 🤖 AI Systems &amp; MLOps Engineer
 
-I build and ship **AI systems, data products, open-source tools, and public datasets**.
+I engineer **low-latency inference pipelines, observable MLOps platforms, and scalable data products**.
 
-My work sits at the intersection of:
+My focus sits at the convergence of:
+`Low-Latency ML` · `Agentic AI & RAG` · `Production MLOps` · `Data Platform Engineering`
 
-`AI Agents` · `ML Systems` · `Data Analytics` · `MLOps` · `Data Engineering`
+I build systems that bridge research and production: containerized architectures with strict SLA boundaries, in-memory feature caching, automated data drift monitoring, and measurable business ROI.
 
-I care about turning ideas into systems that are **useful, observable, and deployable** — not just notebook experiments.
+```text
+> CORE PRINCIPLE
+Moving beyond isolated notebook experiments into containerized, 
+observable, and SLA-bound production systems.
+```
 
 </td>
 
-<td width="38%" valign="top">
+<td width="36%" valign="top">
 
 ```text
+SYSTEM SPEC
+────────────────────────────
+ROLE       AI Systems Eng
+BASE       Bengaluru, IN
+COORDS     12.97° N, 77.59° E
+DEGREE     M.Tech CS (3.67/4.0)
+ALMA MATER Christ University
+
 STATUS
-────────────────────────
+────────────────────────────
 ● OPEN TO WORK
+Startups & Tech Teams
 
-FOCUS
-────────────────────────
-AI Systems
-Data Products
-Open Source
-Public Data
-
-BASE
-────────────────────────
-Bangalore, India
-
-DEGREE
-────────────────────────
-M.Tech CS
+SPECIALIZATIONS
+────────────────────────────
+• Low-Latency ML (<20ms P99)
+• Hybrid RAG & Guardrails
+• Real-Time Feature Stores
+• Drift Monitoring (KS/PSI)
+• Kubernetes Autoscaling
 ```
 
 </td>
@@ -74,130 +84,34 @@ M.Tech CS
 
 ---
 
-## `~/what-i-build`
+### `02 // CORE DOMAINS (WHAT I BUILD)`
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td width="25%" valign="top">
 
-### 🤖
-**AI AGENTS**
-
-Multi-step AI workflows, tool use, reasoning, RAG, and NL2SQL.
+#### `[01]` AGENTIC AI &amp; RAG
+Dense/sparse hybrid retrieval (ChromaDB + BM25 + RRF), BGE cross-encoders, citation guardrails, and automated evaluation using Ragas.
 
 </td>
-<td align="center" width="25%">
+<td width="25%" valign="top">
 
-### 📊
-**DATA PRODUCTS**
-
-Analytics pipelines, dashboards, datasets, and decision-support tools.
+#### `[02]` LOW-LATENCY ML
+Cost-weighted gradient boosting fused with zero-day anomaly detection, clearing sub-20ms P99 SLAs with zero temporal leakage.
 
 </td>
-<td align="center" width="25%">
+<td width="25%" valign="top">
 
-### ⚙️
-**ML SYSTEMS**
-
-Monitoring, anomaly detection, intelligent infrastructure, and MLOps.
+#### `[03]` PRODUCTION MLOPS
+Covariate shift detection via KS-tests and Population Stability Index (PSI), pre-allocated SHAP microservices, and CI/CD pipelines.
 
 </td>
-<td align="center" width="25%">
+<td width="25%" valign="top">
 
-### 🌐
-**OPEN SOURCE**
-
-Developer tools and reusable systems shipped for others to use.
-
-</td>
-</tr>
-</table>
-
-</div>
-
-> **Build → ship → measure → improve**
-
----
-
-## `~/featured`
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧩 AI Agent Workflow
-
-**Visual orchestration for building AI agent workflows.**
-
-A developer-focused tool for composing, inspecting, and iterating on agent workflows without hiding the system behind a black box.
-
-`TypeScript` `AI Agents` `Workflow Design`
-
-<br/>
-
-<a href="https://github.com/RenoX23/ai-agent-workflow-builder">
-<img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" />
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🔨 DataForge
-
-**Open tooling for generating useful synthetic data.**
-
-A dataset-generation project designed around controllable, reusable data creation rather than toy random records.
-
-`Python` `Data Engineering` `Open Source`
-
-<br/>
-
-<a href="https://github.com/RenoX23/DataForge">
-<img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" />
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 GenAI Data Quality Explainer
-
-**Turn data-quality failures into explanations people can act on.**
-
-Combines data-quality signals with GenAI to explain what went wrong, why it matters, and what to investigate next.
-
-`Python` `GenAI` `Data Quality`
-
-<br/>
-
-<a href="https://github.com/RenoX23/genai-dq-explainer">
-<img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" />
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🔁 GitOps Pipeline
-
-**A production-style CI/CD workflow built around Git as the control plane.**
-
-Automates delivery and infrastructure operations across containerized workloads with a strong focus on repeatability and observability.
-
-`GitOps` `Kubernetes` `CI/CD` `MLOps`
-
-<br/>
-
-<a href="https://github.com/RenoX23/devops-gitops-ci">
-<img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" />
-</a>
+#### `[04]` DATA PLATFORMS
+In-memory Redis feature stores (`ZSET` velocity counters), analytical data marts (DuckDB), and PostgreSQL Star Schemas with CTE window functions.
 
 </td>
 </tr>
@@ -207,129 +121,225 @@ Automates delivery and infrastructure operations across containerized workloads 
 
 ---
 
-## `~/stack`
+### `03 // FLAGSHIP PRODUCTION SYSTEMS`
 
-### 🤖 AI & Intelligent Systems
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+  <a href="https://github.com/RenoX23">
+    <img src="./assets/card-indic-compliance.svg" alt="IndicCompliance: Financial Regulatory Hybrid RAG" width="100%" />
+  </a>
+</td>
+<td width="50%" valign="top">
+  <a href="https://github.com/RenoX23">
+    <img src="./assets/card-fraud-engine.svg" alt="Real-Time Payment Fraud Detection Engine" width="100%" />
+  </a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://github.com/RenoX23">
+    <img src="./assets/card-churn-mlops.svg" alt="B2B SaaS Churn Early-Warning & MLOps Platform" width="100%" />
+  </a>
+</td>
+<td width="50%" valign="top">
+  <a href="https://github.com/RenoX23">
+    <img src="./assets/card-analytics-engine.svg" alt="Supply Chain & Unit Economics Analytics" width="100%" />
+  </a>
+</td>
+</tr>
+</table>
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&theme=dark" height="68" alt="Python TensorFlow PyTorch OpenCV" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/LangGraph-302B63?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RAG-4A90D9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-
-</div>
-
-### 📊 Data & Analytics
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" height="68" alt="PostgreSQL MySQL MongoDB" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-0b0f14?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
-
-</div>
-
-### ⚙️ Cloud, Infrastructure & MLOps
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,githubactions,jenkins,linux,aws&theme=dark" height="68" alt="Docker Kubernetes Terraform GitHub Actions Jenkins Linux AWS" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
-<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
-
-</div>
-
----
-
-## `~/background`
+<details>
+<summary><b>▸ Open-Source Developer Tooling &amp; Infrastructure</b></summary>
+<br/>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 M.Tech — Computer Science
-
-**Christ University, Bangalore**
-
-AI Systems · Data Engineering · Cloud-Native MLOps
+#### 🧩 [AI Agent Workflow Builder](https://github.com/RenoX23/ai-agent-workflow-builder)
+Visual DAG orchestration for multi-step AI agent workflows. Composes, inspects, and debugs agentic execution traces without black-box abstractions.  
+`TypeScript` `AI Agents` `Workflow Orchestration`
 
 </td>
 <td width="50%" valign="top">
 
-### 💻 B.Tech — Information Science
+#### 🔨 [DataForge](https://github.com/RenoX23/DataForge)
+Controllable synthetic dataset generation engine designed around schema constraints and realistic distributions rather than toy random noise.  
+`Python` `Data Engineering` `Synthetic Data`
 
-**Cambridge Institute of Technology**
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-Full-Stack Development · DevOps
+#### 🧠 [GenAI Data Quality Explainer](https://github.com/RenoX23/genai-dq-explainer)
+Automated root-cause diagnostic engine that translates data pipeline anomalies and expectation violations into structured, actionable remediation steps.  
+`Python` `GenAI` `Data Observability`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🔁 [GitOps &amp; MLOps CI/CD Control Plane](https://github.com/RenoX23/devops-gitops-ci)
+Production-grade deployment pipeline managing containerized ML workloads across Kubernetes with automated Canary rollouts and Git as the single source of truth.  
+`Kubernetes` `GitOps` `ArgoCD` `MLOps`
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Publication-YOLOv5%20%2B%20Raspberry%20Pi%20Assistive%20Navigation-0b0f14?style=flat-square&labelColor=111923&color=2de2c4" />
-<img src="https://img.shields.io/badge/Recognition-Microsoft%20Learn%20Student%20Ambassador-0b0f14?style=flat-square&labelColor=111923&color=5aa9ff" />
-
-</div>
+</details>
 
 ---
 
-## `~/telemetry`
+### `04 // PRODUCTION TECH STACK`
 
-<div align="center">
-
-<img src="./assets/telemetry.svg" alt="GitHub telemetry" width="100%" />
-
-</div>
+<table width="100%">
+<tr>
+<td width="20%" valign="top"><b>LAYER</b></td>
+<td width="80%" valign="top"><b>TECHNOLOGIES &amp; FRAMEWORKS</b></td>
+</tr>
+<tr>
+<td valign="top"><code>AI &amp; Reasoning</code></td>
+<td>
+  <b>PyTorch</b> · <b>LangGraph</b> · <b>LangChain</b> · <b>Groq LLaMA-3.3</b> · <b>ChromaDB</b> · <b>Ragas</b> · <b>BGE Cross-Encoders</b> · <b>Scikit-Learn</b> · <b>LightGBM</b> · <b>XGBoost</b>
+</td>
+</tr>
+<tr>
+<td valign="top"><code>Data &amp; Feature Stores</code></td>
+<td>
+  <b>PostgreSQL</b> · <b>DuckDB</b> · <b>Redis (Sorted Sets / ZSET)</b> · <b>Star Schema (Data Modeling)</b> · <b>SQL Window Functions (CTEs, LEAD/LAG)</b> · <b>Pandas</b> · <b>NumPy</b> · <b>SciPy Sparse</b>
+</td>
+</tr>
+<tr>
+<td valign="top"><code>MLOps &amp; Observability</code></td>
+<td>
+  <b>FastAPI</b> · <b>MLflow</b> · <b>Evidently AI</b> · <b>SHAP (TreeExplainer)</b> · <b>Prometheus</b> · <b>Grafana</b> · <b>Drift Detection (KS-Tests, PSI)</b>
+</td>
+</tr>
+<tr>
+<td valign="top"><code>Cloud &amp; Infrastructure</code></td>
+<td>
+  <b>AWS (EC2, S3, Lambda)</b> · <b>Kubernetes (Horizontal Pod Autoscaling - HPA)</b> · <b>Docker</b> · <b>Terraform</b> · <b>Jenkins CI/CD</b> · <b>Linux / Ubuntu</b>
+</td>
+</tr>
+<tr>
+<td valign="top"><code>Analytics &amp; BI</code></td>
+<td>
+  <b>Power BI (DAX Modeling)</b> · <b>Streamlit</b> · <b>Plotly</b> · <b>Cohort Retention &amp; Unit Economics</b>
+</td>
+</tr>
+</table>
 
 ---
 
-## `~/connect`
+### `05 // RESEARCH, CREDENTIALS &amp; PEDIGREE`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 💼 Engineering Experience
+
+* **Mesanite Software Solutions (IIIC, Bengaluru)**  
+  *NLP Research Intern* `[May 2026 – Jun 2026]`  
+  • Developed **GapIQ**: Hybrid NLP matching engine fusing 5D semantic scoring with Groq LLaMA-3.3 (**4.0ms inference latency**).  
+  • Benchmarked 5 NLP architectures: **+317% F1 lift over TF-IDF** (F1=0.547, $p < 0.05$).
+
+* **CDAC (Centre for Development of Advanced Computing, Bengaluru)**  
+  *IT &amp; DevOps Intern* `[Dec 2025 – Jan 2026]`  
+  • Provisioned AWS infrastructure via Terraform; configured Kubernetes Horizontal Pod Autoscaling (HPA scaling 2 → 8 pods).  
+  • Sustained **p95 latency < 300ms** under burst workloads with Jenkins CI/CD & Prometheus alerts.
+
+* **IBM Cloud, Bengaluru**  
+  *Cloud Intern* `[Oct 2024 – Feb 2025]`  
+  • Orchestrated containerized deployment pipelines on IBM Kubernetes Service (IKS).  
+  • Configured Prometheus & Grafana dashboards for real-time node health & cluster telemetry.
+
+</td>
+
+<td width="50%" valign="top">
+
+#### 📜 Intellectual Property &amp; Education
+
+* **Published Research Paper**  
+  *Computer Vision & Assistive Navigation*  
+  YOLOv5 + Raspberry Pi Edge Assistive Navigation for Visually Impaired.
+
+* **Registered Intellectual Property**  
+  Co-authored **1 Copyright Registered** with the Copyright Office, Government of India.
+
+* **Open Data & Community**  
+  • Published **5+ Public Kaggle Datasets** for ML, analytics, and research.  
+  • **4+ Open-Source Tools** released on GitHub.  
+  • **Microsoft Learn Student Ambassador (MLSA)**.
+
+* **Certifications**  
+  • Microsoft Certified: Azure Fundamentals (AZ-900)  
+  • Generative AI — Google Skill Builder  
+  • Exploratory Data Analysis — Accenture
+
+* **Academic Background**  
+  • **M.Tech in Computer Science** `[2025 – 2027]`  
+    *Christ University, Bengaluru* — **CGPA: 3.67 / 4.0**  
+  • **B.Tech in Information Science &amp; Engineering** `[2021 – 2025]`  
+    *Cambridge Institute of Technology, Bengaluru* — **CGPA: 8.36 / 10.0**
+
+</td>
+</tr>
+</table>
+
+---
+
+### `06 // LIVE TELEMETRY &amp; ACTIVITY`
 
 <div align="center">
+
+<img src="./assets/telemetry.svg" alt="GitHub Telemetry — RenoX23" width="100%" />
+
+<br/><br/>
 
 <a href="https://github.com/RenoX23">
-  <img src="https://img.shields.io/badge/GitHub-RenoX23-0b0f14?style=for-the-badge&logo=github&logoColor=white&labelColor=111923" />
+  <img src="https://img.shields.io/github/followers/RenoX23?style=flat-square&label=Followers&color=2DE2C4&labelColor=0C0F17" alt="Followers" />
 </a>
-<a href="https://www.linkedin.com/in/renoldstephen/">
-  <img src="https://img.shields.io/badge/LinkedIn-Renold%20Stephen-0b0f14?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=111923" />
+&nbsp;
+<a href="https://github.com/RenoX23?tab=stars">
+  <img src="https://img.shields.io/github/stars/RenoX23?affiliations=OWNER&style=flat-square&label=Stars&color=5AA9FF&labelColor=0C0F17" alt="Stars" />
 </a>
-<a href="mailto:renoldstephen23@gmail.com">
-  <img src="https://img.shields.io/badge/Email-renoldstephen23-0b0f14?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=111923" />
+&nbsp;
+<a href="https://komarev.com/ghpvc/?username=RenoX23">
+  <img src="https://komarev.com/ghpvc/?username=RenoX23&style=flat-square&color=A78BFA&label=Profile%20Views&labelColor=0C0F17" alt="Profile Views" />
 </a>
-<a href="https://renox23-portfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-renox23--portfolio-0b0f14?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111923" />
-</a>
-
-<br/><br/>
-
-`> let's build something useful together.`
 
 </div>
 
 ---
 
+### `07 // DISPATCH &amp; DIRECT CHANNELS`
+
 <div align="center">
 
-`RenoX23` · AI Systems · Data Analytics · MLOps · Data Engineering
+```text
+> renold@renox23:~$ ./initiate-contact.sh --role="AI Systems / MLOps / Data Platform"
+```
+
+<br/>
+
+<a href="mailto:renoldstephen@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-renoldstephen%40gmail.com-08090C?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0C0F17" alt="Direct Email" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/renoldstephen/">
+  <img src="https://img.shields.io/badge/LINKEDIN-renoldstephen-08090C?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0C0F17" alt="LinkedIn Profile" />
+</a>
+&nbsp;
+<a href="https://renox23-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-renox23--portfolio-08090C?style=for-the-badge&logo=vercel&logoColor=2DE2C4&labelColor=0C0F17" alt="Portfolio Site" />
+</a>
+
+<br/><br/>
+
+<sub>Engineered with precision · Hosted on <a href="https://github.com/RenoX23">GitHub</a> · Updated via automated CI/CD</sub>
 
 </div>

@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 225" width="100%" height="225" role="img" aria-label="B2B SaaS Churn Early-Warning and MLOps Platform">
+  <defs>
+    <linearGradient id="cardBg3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B0D13" />
+      <stop offset="100%" stop-color="#0E121A" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .mono { font-family: ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Monaco, Consolas, "Liberation Mono", monospace; }
+  </style>
+
+  <!-- Container -->
+  <rect width="440" height="225" rx="12" fill="url(#cardBg3)" />
+  <rect x="0.75" y="0.75" width="438.5" height="223.5" rx="11.25" fill="none" stroke="#1B2130" stroke-width="1.5" />
+
+  <!-- Left Spine Accent -->
+  <rect x="0" y="16" width="3.5" height="193" rx="1.75" fill="#A78BFA" />
+
+  <!-- Top Category & Tag -->
+  <text x="24" y="32" class="mono" font-size="10.5" font-weight="600" fill="#7C8699" letter-spacing="1">SYSTEM // 03</text>
+  <rect x="306" y="20" width="114" height="20" rx="10" fill="#201833" stroke="#362557" stroke-width="1" />
+  <text x="363" y="33.5" class="mono" font-size="9" font-weight="700" fill="#A78BFA" text-anchor="middle" letter-spacing="1">MLOPS &amp; DRIFT</text>
+
+  <!-- Title -->
+  <text x="24" y="62" class="mono" font-size="16.5" font-weight="700" fill="#EDF0F7" letter-spacing="-0.3">B2B SaaS Churn Early-Warning</text>
+
+  <!-- Description -->
+  <text x="24" y="86" class="mono" font-size="11" fill="#8B98A8">Calibrated LightGBM microservice serving top-3 risk</text>
+  <text x="24" y="103" class="mono" font-size="11" fill="#8B98A8">drivers via pre-allocated SHAP TreeExplainer. Live</text>
+  <text x="24" y="120" class="mono" font-size="11" fill="#8B98A8">drift monitoring detects covariate shift via KS-tests &amp; PSI.</text>
+
+  <!-- Divider -->
+  <line x1="24" y1="136" x2="416" y2="136" stroke="#17202E" stroke-width="1" />
+
+  <!-- Tech Badges -->
+  <g transform="translate(24, 148)">
+    <rect x="0" y="0" width="46" height="18" rx="4" fill="#131C28" />
+    <text x="23" y="12.5" class="mono" font-size="9" fill="#7C8699" text-anchor="middle">SHAP</text>
+
+    <rect x="52" y="0" width="70" height="18" rx="4" fill="#131C28" />
+    <text x="87" y="12.5" class="mono" font-size="9" fill="#7C8699" text-anchor="middle">Evidently AI</text>
+
+    <rect x="128" y="0" width="52" height="18" rx="4" fill="#131C28" />
+    <text x="154" y="12.5" class="mono" font-size="9" fill="#7C8699" text-anchor="middle">Docker</text>
+
+    <rect x="186" y="0" width="52" height="18" rx="4" fill="#131C28" />
+    <text x="212" y="12.5" class="mono" font-size="9" fill="#7C8699" text-anchor="middle">Render</text>
+
+    <rect x="244" y="0" width="86" height="18" rx="4" fill="#131C28" />
+    <text x="287" y="12.5" class="mono" font-size="9" fill="#7C8699" text-anchor="middle">CI/CD (92% Cov)</text>
+  </g>
+
+  <!-- Benchmark Lift Strip -->
+  <g transform="translate(24, 184)">
+    <rect x="0" y="0" width="392" height="26" rx="6" fill="#0C121B" stroke="#192436" stroke-width="1" />
+    <text x="12" y="17" class="mono" font-size="10.5" font-weight="600" fill="#A78BFA">
+      0.884 PR-AUC <tspan fill="#4E5A6E">|</tspan> &lt;16ms Latency <tspan fill="#4E5A6E">|</tspan> KS-Test (p&lt;0.05) &amp; PSI Drift
+    </text>
+  </g>
+</svg>

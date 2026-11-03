@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 225" width="100%" height="225" role="img" aria-label="Real-Time Payment Fraud Detection Engine">
+  <defs>
+    <linearGradient id="cardBg2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B0D13" />
+      <stop offset="100%" stop-color="#0E121A" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .mono { font-family: ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Monaco, Consolas, "Liberation Mono", monospace; }
+  </style>
+
+  <!-- Container -->
+  <rect width="440" height="225" rx="12" fill="url(#cardBg2)" />
+  <rect x="0.75" y="0.75" width="438.5" height="223.5" rx="11.25" fill="none" stroke="#1B2130" stroke-width="1.5" />
+
+  <!-- Left Spine Accent -->
+  <rect x="0" y="16" width="3.5" height="193" rx="1.75" fill="#5AA9FF" />
+
+  <!-- Top Category & Tag -->
+  <text x="24" y="32" class="mono" font-size="10.5" font-weight="600" fill="#7C8699" letter-spacing="1">SYSTEM // 02</text>
+  <rect x="306" y="20" width="114" height="20" rx="10" fill="#132035" stroke="#1D3459" stroke-width="1" />
+  <text x="363" y="33.5" class="mono" font-size="9" font-weight="700" fill="#5AA9FF" text-anchor="middle" letter-spacing="1">LOW-LATENCY ML</text>
+
+  <!-- Title -->
+  <text x="24" y="62" class="mono" font-size="16.5" font-weight="700" fill="#EDF0F7" letter-spacing="-0.3">Real-Time Payment Fraud Engine</text>
+
+  <!-- Description -->
+  <text x="24" y="86" class="mono" font-size="11" fill="#8B98A8">Cost-weighted LightGBM fused with Isolation Forest</text>
+  <text x="24" y="103" class="mono" font-size="11" fill="#8B98A8">zero-day anomaly detector on 0.20% imbalanced streams.</text>
+  <text x="24" y="120" class="mono" font-size="11" fill="#8B98A8">Redis in-memory feature store clears &lt;30ms SLA.</text>
+
+  <!-- Divider -->
+  <line x1="24" y1="136" x2="416" y2="136" stroke="#17202E" stroke-width="1" />
+
+  <!-- Tech Badges -->
+  <g transform="translate(24, 148)">
+    <rect x="0" y="0" width="62" height="18" rx="4" fill="#131C28" />
+    <text x="31" y="12.5" class="mono" font-size="9" fill="#7C8699" text-anchor="middle">LightGBM</text>
+
+    <rect x="68" y="0" width="46" height="18" rx="4" fill="#131C28" />
+    <text x="91" y="12.5" class="mono" font-size="9" fill="#7C8699" text-anchor="middle">Redis</text>
+
+    <rect x="120" y="0" width="52" height="18" rx="4" fill="#131C28" />
+    <text x="146" y="12.5" class="mono" font-size="9" fill="#7C8699" text-anchor="middle">Docker</text>
+
+    <rect x="178" y="0" width="54" height="18" rx="4" fill="#131C28" />
+    <text x="205" y="12.5" class="mono" font-size="9" fill="#7C8699" text-anchor="middle">FastAPI</text>
+
+    <rect x="238" y="0" width="64" height="18" rx="4" fill="#131C28" />
+    <text x="270" y="12.5" class="mono" font-size="9" fill="#7C8699" text-anchor="middle">Isolation Forest</text>
+  </g>
+
+  <!-- Benchmark Lift Strip -->
+  <g transform="translate(24, 184)">
+    <rect x="0" y="0" width="392" height="26" rx="6" fill="#0C121B" stroke="#192436" stroke-width="1" />
+    <text x="12" y="17" class="mono" font-size="10.5" font-weight="600" fill="#5AA9FF">
+      0.992 PR-AUC <tspan fill="#4E5A6E">|</tspan> 1.14ms ZSET Velocity <tspan fill="#4E5A6E">|</tspan> 19.1ms P99 SLA
+    </text>
+  </g>
+</svg>
