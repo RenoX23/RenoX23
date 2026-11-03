@@ -197,37 +197,85 @@ Production-grade deployment pipeline managing containerized ML workloads across 
 
 <table width="100%">
 <tr>
-<td width="20%" valign="top"><b>LAYER</b></td>
-<td width="80%" valign="top"><b>TECHNOLOGIES &amp; FRAMEWORKS</b></td>
-</tr>
-<tr>
-<td valign="top"><code>AI &amp; Reasoning</code></td>
-<td>
-  <b>PyTorch</b> · <b>LangGraph</b> · <b>LangChain</b> · <b>Groq LLaMA-3.3</b> · <b>ChromaDB</b> · <b>Ragas</b> · <b>BGE Cross-Encoders</b> · <b>Scikit-Learn</b> · <b>LightGBM</b> · <b>XGBoost</b>
+<td width="50%" valign="top">
+
+#### `[01]` AI, LLMS &amp; INFERENCE
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn,fastapi&theme=dark" height="40" alt="AI & Inference Stack" />
+</div>
+
+<br/>
+
+<img src="https://img.shields.io/badge/LangGraph-08090C?style=flat-square&logo=langchain&logoColor=2DE2C4&labelColor=0C0F17" alt="LangGraph" />
+<img src="https://img.shields.io/badge/LangChain-08090C?style=flat-square&logo=langchain&logoColor=5AA9FF&labelColor=0C0F17" alt="LangChain" />
+<img src="https://img.shields.io/badge/Groq%20LLaMA--3.3-08090C?style=flat-square&logo=groq&logoColor=F55036&labelColor=0C0F17" alt="Groq LLaMA-3.3" />
+<img src="https://img.shields.io/badge/ChromaDB-08090C?style=flat-square&logo=databricks&logoColor=FF7A18&labelColor=0C0F17" alt="ChromaDB" />
+<img src="https://img.shields.io/badge/Ragas%20Eval-08090C?style=flat-square&logoColor=2DE2C4&labelColor=0C0F17" alt="Ragas" />
+<img src="https://img.shields.io/badge/LightGBM-08090C?style=flat-square&logoColor=A78BFA&labelColor=0C0F17" alt="LightGBM" />
+<img src="https://img.shields.io/badge/BGE%20Cross--Encoder-08090C?style=flat-square&logoColor=5AA9FF&labelColor=0C0F17" alt="BGE Cross-Encoder" />
+
+<sub>Dense/sparse hybrid retrieval (BM25 + BGE), Ragas faithfulness guardrails, Groq 4.0ms LLaMA inference, cost-weighted LightGBM.</sub>
+
+</td>
+<td width="50%" valign="top">
+
+#### `[02]` DATA &amp; FEATURE STORES
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,redis,mysql,mongodb&theme=dark" height="40" alt="Data & Feature Stores" />
+</div>
+
+<br/>
+
+<img src="https://img.shields.io/badge/DuckDB-08090C?style=flat-square&logo=duckdb&logoColor=FFF000&labelColor=0C0F17" alt="DuckDB" />
+<img src="https://img.shields.io/badge/Redis%20ZSET-08090C?style=flat-square&logo=redis&logoColor=EA4335&labelColor=0C0F17" alt="Redis ZSET" />
+<img src="https://img.shields.io/badge/Star%20Schema%20SQL-08090C?style=flat-square&logoColor=2DE2C4&labelColor=0C0F17" alt="Star Schema" />
+<img src="https://img.shields.io/badge/Window%20CTEs-08090C?style=flat-square&logoColor=5AA9FF&labelColor=0C0F17" alt="Window CTEs" />
+<img src="https://img.shields.io/badge/Pandas-08090C?style=flat-square&logo=pandas&logoColor=150458&labelColor=0C0F17" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-08090C?style=flat-square&logo=numpy&logoColor=013243&labelColor=0C0F17" alt="NumPy" />
+<img src="https://img.shields.io/badge/SciPy%20CSR%20Sparse-08090C?style=flat-square&logoColor=A78BFA&labelColor=0C0F17" alt="SciPy CSR Sparse" />
+
+<sub>In-memory feature velocity (1.14ms ZSET), DuckDB analytical data marts, Star Schema data modeling, sparse matrix compression.</sub>
+
 </td>
 </tr>
 <tr>
-<td valign="top"><code>Data &amp; Feature Stores</code></td>
-<td>
-  <b>PostgreSQL</b> · <b>DuckDB</b> · <b>Redis (Sorted Sets / ZSET)</b> · <b>Star Schema (Data Modeling)</b> · <b>SQL Window Functions (CTEs, LEAD/LAG)</b> · <b>Pandas</b> · <b>NumPy</b> · <b>SciPy Sparse</b>
+<td width="50%" valign="top">
+
+#### `[03]` MLOPS &amp; OBSERVABILITY
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=docker,prometheus,grafana&theme=dark" height="40" alt="MLOps & Observability" />
+</div>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Evidently%20AI-08090C?style=flat-square&logoColor=2DE2C4&labelColor=0C0F17" alt="Evidently AI" />
+<img src="https://img.shields.io/badge/SHAP%20TreeExplainer-08090C?style=flat-square&logoColor=5AA9FF&labelColor=0C0F17" alt="SHAP TreeExplainer" />
+<img src="https://img.shields.io/badge/MLflow-08090C?style=flat-square&logo=mlflow&logoColor=0194E2&labelColor=0C0F17" alt="MLflow" />
+<img src="https://img.shields.io/badge/FastAPI%20Microservices-08090C?style=flat-square&logo=fastapi&logoColor=009688&labelColor=0C0F17" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Drift%20(KS%20/%20PSI)-08090C?style=flat-square&logoColor=A78BFA&labelColor=0C0F17" alt="Drift Detection" />
+<img src="https://img.shields.io/badge/Prometheus%20Alerts-08090C?style=flat-square&logo=prometheus&logoColor=E6522C&labelColor=0C0F17" alt="Prometheus" />
+
+<sub>Covariate shift drift detection via KS-tests &amp; PSI, pre-allocated SHAP TreeExplainer microservices, cluster health observability.</sub>
+
 </td>
-</tr>
-<tr>
-<td valign="top"><code>MLOps &amp; Observability</code></td>
-<td>
-  <b>FastAPI</b> · <b>MLflow</b> · <b>Evidently AI</b> · <b>SHAP (TreeExplainer)</b> · <b>Prometheus</b> · <b>Grafana</b> · <b>Drift Detection (KS-Tests, PSI)</b>
-</td>
-</tr>
-<tr>
-<td valign="top"><code>Cloud &amp; Infrastructure</code></td>
-<td>
-  <b>AWS (EC2, S3, Lambda)</b> · <b>Kubernetes (Horizontal Pod Autoscaling - HPA)</b> · <b>Docker</b> · <b>Terraform</b> · <b>Jenkins CI/CD</b> · <b>Linux / Ubuntu</b>
-</td>
-</tr>
-<tr>
-<td valign="top"><code>Analytics &amp; BI</code></td>
-<td>
-  <b>Power BI (DAX Modeling)</b> · <b>Streamlit</b> · <b>Plotly</b> · <b>Cohort Retention &amp; Unit Economics</b>
+<td width="50%" valign="top">
+
+#### `[04]` CLOUD, INFRASTRUCTURE &amp; BI
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=kubernetes,aws,terraform,jenkins,linux&theme=dark" height="40" alt="Cloud, Infra & BI" />
+</div>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Kubernetes%20HPA-08090C?style=flat-square&logo=kubernetes&logoColor=326CE5&labelColor=0C0F17" alt="Kubernetes HPA" />
+<img src="https://img.shields.io/badge/AWS%20(EC2%2C%20S3%2C%20Lambda)-08090C?style=flat-square&logo=amazonwebservices&logoColor=FF9900&labelColor=0C0F17" alt="AWS" />
+<img src="https://img.shields.io/badge/Terraform%20IaC-08090C?style=flat-square&logo=terraform&logoColor=7B42BC&labelColor=0C0F17" alt="Terraform" />
+<img src="https://img.shields.io/badge/Power%20BI%20DAX-08090C?style=flat-square&logo=powerbi&logoColor=F2C811&labelColor=0C0F17" alt="Power BI DAX" />
+<img src="https://img.shields.io/badge/Streamlit%20Apps-08090C?style=flat-square&logo=streamlit&logoColor=FF4B4B&labelColor=0C0F17" alt="Streamlit" />
+<img src="https://img.shields.io/badge/Jenkins%20CI%2FCD-08090C?style=flat-square&logo=jenkins&logoColor=D24939&labelColor=0C0F17" alt="Jenkins" />
+
+<sub>Autoscaling pod clusters (2 → 8 pods, p95 &lt; 300ms), Terraform IaC pipelines, executive Power BI and Streamlit dashboards.</sub>
+
 </td>
 </tr>
 </table>
