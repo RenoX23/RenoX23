@@ -1,12 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 320" width="100%" height="320" role="img" aria-label="Identity and Engineering Manifesto — Renold Stephen R">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 320" width="100%" height="320" role="img" aria-label="Professional Profile and Engineering Overview — Renold Stephen R">
   <defs>
     <linearGradient id="idBg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#08090C" />
       <stop offset="100%" stop-color="#0C0F17" />
-    </linearGradient>
-    <linearGradient id="accentTeal" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#2DE2C4" />
-      <stop offset="100%" stop-color="#5AA9FF" />
     </linearGradient>
     <pattern id="idDots" width="20" height="20" patternUnits="userSpaceOnUse">
       <circle cx="2" cy="2" r="1" fill="#1A2333" opacity="0.5"/>
@@ -27,46 +23,46 @@
   <!-- Vertical Divider Line -->
   <line x1="570" y1="20" x2="570" y2="300" stroke="#1B2130" stroke-width="1" />
 
-  <!-- LEFT COLUMN: Engineering Manifesto -->
+  <!-- LEFT COLUMN: Engineering Overview -->
   <g transform="translate(36, 32)">
     <!-- Chapter Tag -->
-    <text x="0" y="0" class="mono" font-size="11" font-weight="600" fill="#2DE2C4" letter-spacing="1.5">// 01 · IDENTITY &amp; MANIFESTO</text>
+    <text x="0" y="0" class="mono" font-size="11" font-weight="600" fill="#2DE2C4" letter-spacing="1.5">// 01 · PROFESSIONAL PROFILE</text>
 
     <!-- Title -->
     <text x="0" y="32" class="mono" font-size="22" font-weight="700" fill="#EDF0F7" letter-spacing="-0.5">
       AI Systems &amp; Intelligence Engineer
     </text>
-    <text x="0" y="54" class="mono" font-size="12" font-weight="600" fill="#7C8699" letter-spacing="0.5">
-      DATA ANALYST AT HEART · SYSTEMS BUILDER BY PRACTICE
+    <text x="0" y="54" class="mono" font-size="11" font-weight="600" fill="#7C8699" letter-spacing="1">
+      GENERATIVE AI · PRODUCTION MLOPS · DECISION INTELLIGENCE
     </text>
 
     <!-- Narrative Paragraph -->
-    <text x="0" y="86" class="mono" font-size="12" fill="#9BA8BA">I architect and ship production AI systems where reliability,</text>
-    <text x="0" y="104" class="mono" font-size="12" fill="#9BA8BA">sub-20ms latency, and strict verification guardrails matter.</text>
-    <text x="0" y="126" class="mono" font-size="12" fill="#9BA8BA">Having a Data Analyst's DNA means I don't treat models as black</text>
-    <text x="0" y="144" class="mono" font-size="12" fill="#9BA8BA">boxes: I inspect distributions, model schemas, track unit</text>
-    <text x="0" y="162" class="mono" font-size="12" fill="#9BA8BA">economics, and ground every agent in verifiable data telemetry.</text>
+    <text x="0" y="86" class="mono" font-size="12" fill="#9BA8BA">AI/ML Engineer (M.Tech CS) specializing in Generative AI, production</text>
+    <text x="0" y="104" class="mono" font-size="12" fill="#9BA8BA">MLOps, and decision intelligence. Backed by engineering internships</text>
+    <text x="0" y="122" class="mono" font-size="12" fill="#9BA8BA">at CDAC, IBM Cloud, and Mesanite (IIIC), with published research.</text>
+    <text x="0" y="144" class="mono" font-size="12" fill="#9BA8BA">Architects containerized AI microservices backed by automated CI/CD</text>
+    <text x="0" y="162" class="mono" font-size="12" fill="#9BA8BA">pipelines, in-memory feature stores, and statistical drift observability.</text>
 
     <!-- Core Pillars Pills -->
     <g transform="translate(0, 184)">
-      <rect x="0" y="0" width="128" height="22" rx="11" fill="#11221E" stroke="#1C3D35" stroke-width="1"/>
-      <text x="64" y="14.5" class="mono" font-size="9.5" font-weight="600" fill="#2DE2C4" text-anchor="middle">Agentic AI &amp; RAG</text>
+      <rect x="0" y="0" width="138" height="22" rx="11" fill="#11221E" stroke="#1C3D35" stroke-width="1"/>
+      <text x="69" y="14.5" class="mono" font-size="9.5" font-weight="600" fill="#2DE2C4" text-anchor="middle">Generative AI &amp; RAG</text>
 
-      <rect x="136" y="0" width="138" height="22" rx="11" fill="#132035" stroke="#1D3459" stroke-width="1"/>
-      <text x="205" y="14.5" class="mono" font-size="9.5" font-weight="600" fill="#5AA9FF" text-anchor="middle">Low-Latency ML</text>
+      <rect x="146" y="0" width="120" height="22" rx="11" fill="#132035" stroke="#1D3459" stroke-width="1"/>
+      <text x="206" y="14.5" class="mono" font-size="9.5" font-weight="600" fill="#5AA9FF" text-anchor="middle">Low-Latency ML</text>
 
-      <rect x="282" y="0" width="120" height="22" rx="11" fill="#1C172E" stroke="#332454" stroke-width="1"/>
-      <text x="342" y="14.5" class="mono" font-size="9.5" font-weight="600" fill="#A78BFA" text-anchor="middle">Production MLOps</text>
+      <rect x="274" y="0" width="124" height="22" rx="11" fill="#1C172E" stroke="#332454" stroke-width="1"/>
+      <text x="336" y="14.5" class="mono" font-size="9.5" font-weight="600" fill="#A78BFA" text-anchor="middle">Production MLOps</text>
 
-      <rect x="410" y="0" width="104" height="22" rx="11" fill="#101F1D" stroke="#1A3E39" stroke-width="1"/>
-      <text x="462" y="14.5" class="mono" font-size="9.5" font-weight="600" fill="#00F5D4" text-anchor="middle">Data Analytics</text>
+      <rect x="406" y="0" width="124" height="22" rx="11" fill="#101F1D" stroke="#1A3E39" stroke-width="1"/>
+      <text x="468" y="14.5" class="mono" font-size="9.5" font-weight="600" fill="#00F5D4" text-anchor="middle">Data Modeling &amp; BI</text>
     </g>
 
     <!-- Core Principle Quote -->
     <g transform="translate(0, 222)">
       <rect x="0" y="0" width="514" height="38" rx="6" fill="#07090E" stroke="#172233" stroke-width="1" />
       <text x="14" y="24" class="mono" font-size="11" fill="#7C8699">
-        <tspan fill="#2DE2C4">&gt;</tspan> Build beyond notebooks: containerized, observable, and SLA-bound.
+        <tspan fill="#2DE2C4">&gt;</tspan> Core Focus: Containerized architectures, verified guardrails, and real-time observability.
       </text>
     </g>
   </g>
@@ -102,7 +98,7 @@
 
     <g transform="translate(0, 236)">
       <text x="0" y="0" class="mono" font-size="9.5" fill="#58677D" letter-spacing="0.5">CORE BENCHMARKS</text>
-      <text x="0" y="18" class="mono" font-size="10.5" fill="#2DE2C4">19.1ms P99 <tspan fill="#58677D">·</tspan> 96.6% RAG <tspan fill="#58677D">·</tspan> 0.992 AUC</text>
+      <text x="0" y="18" class="mono" font-size="10.5" fill="#2DE2C4">96.6% RAG <tspan fill="#58677D">·</tspan> 19.1ms P99 <tspan fill="#58677D">·</tspan> ₹3.79L GMV</text>
     </g>
   </g>
 </svg>

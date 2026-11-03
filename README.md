@@ -16,11 +16,11 @@
 
 ---
 
-### `01 // IDENTITY · ENGINEERING MANIFESTO`
+### `01 // IDENTITY · PROFESSIONAL OVERVIEW`
 
 <div align="center">
 
-<img src="./assets/identity-card.svg" alt="Identity & Engineering Manifesto — Renold Stephen R" width="100%" />
+<img src="./assets/identity-card.svg" alt="Professional Profile & Engineering Overview — Renold Stephen R" width="100%" />
 
 </div>
 
@@ -28,10 +28,12 @@
 <summary><b>▸ View Accessible Bio &amp; Systems Overview</b></summary>
 <br/>
 
-I architect and ship production AI systems where reliability, sub-20ms latency, and strict verification guardrails matter. Having a Data Analyst's DNA means I don't treat models as black boxes: I inspect data distributions, model Star Schemas, track unit economics, and ground every agent in verifiable data telemetry.
+AI/ML Engineer (M.Tech CS) specializing in Generative AI, production MLOps, and scalable decision intelligence. Backed by engineering internships at CDAC, IBM Cloud, and Mesanite (IIIC), with published computer vision research and a registered copyright with the Government of India.
 
-* **Core Focus**: Agentic AI Workflows · Hybrid RAG (BM25 + Cross-Encoders) · Sub-20ms ML Inference · Automated Drift Observability · Star Schema Analytics.
-* **Philosophy**: *Moving beyond isolated notebook experiments into containerized, observable, and SLA-bound production systems.*
+Architects containerized AI microservices backed by automated CI/CD pipelines, in-memory feature stores, and statistical observability (KS-tests, PSI) to deliver reliable, SLA-bound production systems.
+
+* **Core Competencies**: Agentic AI Workflows · Hybrid RAG (BM25 + Cross-Encoders) · Sub-20ms ML Inference · Real-Time Drift Observability · Star Schema Data Modeling.
+* **Engineering Standard**: *Moving beyond isolated notebook experiments into containerized, observable, and SLA-bound production systems.*
 
 </details>
 

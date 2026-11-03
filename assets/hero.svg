@@ -83,7 +83,7 @@
   <!-- Subtitle -->
   <g class="rise2">
     <text x="52" y="126" class="mono" font-size="15" font-weight="500" fill="url(#tealGrad)" letter-spacing="0.8">
-      AI Systems &amp; Intelligence Engineer · Data Analyst at Heart
+      AI Systems Engineer · Generative AI · Production MLOps · Data Analytics
     </text>
   </g>
 
@@ -93,7 +93,7 @@
     <text x="68" y="170" class="mono" font-size="13" font-weight="600" fill="#2DE2C4">&gt;</text>
     <g clip-path="url(#typingClip)">
       <text x="86" y="170" class="mono" font-size="12.5" fill="#D3DCE8" letter-spacing="0.4">
-        fusing generative AI systems &amp; data intelligence to build reliable, high-impact products
+        engineering containerized AI systems, hybrid RAG with guardrails &amp; observable pipelines
       </text>
     </g>
     <rect x="748" y="158" width="8" height="15" fill="#2DE2C4" class="blink"/>
@@ -104,7 +104,7 @@
     <line x1="52" y1="210" x2="848" y2="210" stroke="#1B2130" stroke-width="1" />
 
     <text x="52" y="238" class="mono" font-size="10" font-weight="600" fill="#58677D" letter-spacing="2">CORE ARCHITECTURES</text>
-    <text x="52" y="262" class="mono" font-size="12" fill="#9BA8BA">Agentic AI · Hybrid RAG &amp; Guardrails · Low-Latency ML Pipelines · Star Schema Analytics</text>
+    <text x="52" y="262" class="mono" font-size="12" fill="#9BA8BA">Hybrid RAG &amp; Guardrails · Low-Latency ML Pipelines · Star Schema Modeling · Real-Time Observability</text>
 
     <text x="52" y="292" class="mono" font-size="11" fill="#58677D">
       <tspan fill="#2DE2C4">96.6%</tspan> Ragas Faithfulness · <tspan fill="#2DE2C4">19.1ms P99</tspan> SLA · <tspan fill="#2DE2C4">₹3.79L</tspan> GMV Recovered · <tspan fill="#2DE2C4">0.992</tspan> PR-AUC
