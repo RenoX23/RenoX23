@@ -4,21 +4,7 @@
 
 <br/>
 
-<a href="https://renox23-portfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-renox23--portfolio-08090C?style=flat-square&logo=vercel&logoColor=2DE2C4&labelColor=0C0F17" alt="Portfolio" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/renoldstephen/">
-  <img src="https://img.shields.io/badge/LINKEDIN-renoldstephen-08090C?style=flat-square&logo=linkedin&logoColor=5AA9FF&labelColor=0C0F17" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="mailto:renoldstephen@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-renoldstephen%40gmail.com-08090C?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=0C0F17" alt="Email" />
-</a>
-&nbsp;
-<a href="https://github.com/RenoX23">
-  <img src="https://img.shields.io/badge/GITHUB-RenoX23-08090C?style=flat-square&logo=github&logoColor=EDF0F7&labelColor=0C0F17" alt="GitHub" />
-</a>
+<a href="https://renox23-portfolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-renox23--portfolio-08090C?style=flat-square&logo=vercel&logoColor=2DE2C4&labelColor=0C0F17" alt="Portfolio" /></a>&nbsp;<a href="https://www.linkedin.com/in/renoldstephen/"><img src="https://img.shields.io/badge/LINKEDIN-renoldstephen-08090C?style=flat-square&logo=linkedin&logoColor=5AA9FF&labelColor=0C0F17" alt="LinkedIn" /></a>&nbsp;<a href="mailto:renoldstephen@gmail.com"><img src="https://img.shields.io/badge/EMAIL-renoldstephen%40gmail.com-08090C?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=0C0F17" alt="Email" /></a>&nbsp;<a href="https://github.com/RenoX23"><img src="https://img.shields.io/badge/GITHUB-RenoX23-08090C?style=flat-square&logo=github&logoColor=EDF0F7&labelColor=0C0F17" alt="GitHub" /></a>
 
 <br/><br/>
 
@@ -30,57 +16,24 @@
 
 ---
 
-### `01 // IDENTITY & ENGINEERING FOCUS`
+### `01 // IDENTITY · ENGINEERING MANIFESTO`
 
-<table>
-<tr>
-<td width="64%" valign="top">
+<div align="center">
 
-#### 🤖 AI Systems &amp; MLOps Engineer
+<img src="./assets/identity-card.svg" alt="Identity & Engineering Manifesto — Renold Stephen R" width="100%" />
 
-I engineer **low-latency inference pipelines, observable MLOps platforms, and scalable data products**.
+</div>
 
-My focus sits at the convergence of:
-`Low-Latency ML` · `Agentic AI & RAG` · `Production MLOps` · `Data Platform Engineering`
+<details>
+<summary><b>▸ View Accessible Bio &amp; Systems Overview</b></summary>
+<br/>
 
-I build systems that bridge research and production: containerized architectures with strict SLA boundaries, in-memory feature caching, automated data drift monitoring, and measurable business ROI.
+I architect and ship production AI systems where reliability, sub-20ms latency, and strict verification guardrails matter. Having a Data Analyst's DNA means I don't treat models as black boxes: I inspect data distributions, model Star Schemas, track unit economics, and ground every agent in verifiable data telemetry.
 
-```text
-> CORE PRINCIPLE
-Moving beyond isolated notebook experiments into containerized, 
-observable, and SLA-bound production systems.
-```
+* **Core Focus**: Agentic AI Workflows · Hybrid RAG (BM25 + Cross-Encoders) · Sub-20ms ML Inference · Automated Drift Observability · Star Schema Analytics.
+* **Philosophy**: *Moving beyond isolated notebook experiments into containerized, observable, and SLA-bound production systems.*
 
-</td>
-
-<td width="36%" valign="top">
-
-```text
-SYSTEM SPEC
-────────────────────────────
-ROLE       AI Systems Eng
-BASE       Bengaluru, IN
-COORDS     12.97° N, 77.59° E
-DEGREE     M.Tech CS (3.67/4.0)
-ALMA MATER Christ University
-
-STATUS
-────────────────────────────
-● OPEN TO WORK
-Startups & Tech Teams
-
-SPECIALIZATIONS
-────────────────────────────
-• Low-Latency ML (<20ms P99)
-• Hybrid RAG & Guardrails
-• Real-Time Feature Stores
-• Drift Monitoring (KS/PSI)
-• Kubernetes Autoscaling
-```
-
-</td>
-</tr>
-</table>
+</details>
 
 ---
 
@@ -282,7 +235,7 @@ Production-grade deployment pipeline managing containerized ML workloads across 
 
 ---
 
-### `05 // RESEARCH, CREDENTIALS &amp; PEDIGREE`
+### `05 // RESEARCH, CREDENTIALS & PEDIGREE`
 
 <table>
 <tr>
@@ -340,7 +293,7 @@ Production-grade deployment pipeline managing containerized ML workloads across 
 
 ---
 
-### `06 // LIVE TELEMETRY &amp; ACTIVITY`
+### `06 // LIVE TELEMETRY · REPO ACTIVITY`
 
 <div align="center">
 
@@ -348,46 +301,30 @@ Production-grade deployment pipeline managing containerized ML workloads across 
 
 <br/><br/>
 
-<a href="https://github.com/RenoX23">
-  <img src="https://img.shields.io/github/followers/RenoX23?style=flat-square&label=Followers&color=2DE2C4&labelColor=0C0F17" alt="Followers" />
-</a>
-&nbsp;
-<a href="https://github.com/RenoX23?tab=stars">
-  <img src="https://img.shields.io/github/stars/RenoX23?affiliations=OWNER&style=flat-square&label=Stars&color=5AA9FF&labelColor=0C0F17" alt="Stars" />
-</a>
-&nbsp;
-<a href="https://komarev.com/ghpvc/?username=RenoX23">
-  <img src="https://komarev.com/ghpvc/?username=RenoX23&style=flat-square&color=A78BFA&label=Profile%20Views&labelColor=0C0F17" alt="Profile Views" />
-</a>
+<a href="https://github.com/RenoX23"><img src="https://img.shields.io/github/followers/RenoX23?style=flat-square&label=Followers&color=2DE2C4&labelColor=0C0F17" alt="Followers" /></a>&nbsp;<a href="https://github.com/RenoX23?tab=stars"><img src="https://img.shields.io/github/stars/RenoX23?affiliations=OWNER&style=flat-square&label=Stars&color=5AA9FF&labelColor=0C0F17" alt="Stars" /></a>&nbsp;<a href="https://komarev.com/ghpvc/?username=RenoX23"><img src="https://komarev.com/ghpvc/?username=RenoX23&style=flat-square&color=A78BFA&label=Profile%20Views&labelColor=0C0F17" alt="Profile Views" /></a>
 
 </div>
 
 ---
 
-### `07 // DISPATCH &amp; DIRECT CHANNELS`
+### `07 // DISPATCH · DIRECT CHANNELS`
 
 <div align="center">
 
 ```text
-> renold@renox23:~$ ./initiate-contact.sh --role="AI Systems / MLOps / Data Platform"
+> "The hard part of AI isn't the prototype — it's the system:
+   the latency bounds, the citation guardrails, the data integrity,
+   and the observability that keeps it working in production."
+
+> let's build something useful together.
 ```
 
 <br/>
 
-<a href="mailto:renoldstephen@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-renoldstephen%40gmail.com-08090C?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0C0F17" alt="Direct Email" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/renoldstephen/">
-  <img src="https://img.shields.io/badge/LINKEDIN-renoldstephen-08090C?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0C0F17" alt="LinkedIn Profile" />
-</a>
-&nbsp;
-<a href="https://renox23-portfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-renox23--portfolio-08090C?style=for-the-badge&logo=vercel&logoColor=2DE2C4&labelColor=0C0F17" alt="Portfolio Site" />
-</a>
+<a href="mailto:renoldstephen@gmail.com"><img src="https://img.shields.io/badge/EMAIL-renoldstephen%40gmail.com-08090C?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=0C0F17" height="32" alt="Direct Email" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/renoldstephen/"><img src="https://img.shields.io/badge/LINKEDIN-renoldstephen-08090C?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=0C0F17" height="32" alt="LinkedIn Profile" /></a>&nbsp;&nbsp;<a href="https://renox23-portfolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-renox23--portfolio-08090C?style=flat-square&logo=vercel&logoColor=2DE2C4&labelColor=0C0F17" height="32" alt="Portfolio Site" /></a>
 
 <br/><br/>
 
-<sub>Engineered with precision · Hosted on <a href="https://github.com/RenoX23">GitHub</a> · Updated via automated CI/CD</sub>
+<sub>Engineered with precision · Hosted on <a href="https://github.com/RenoX23">GitHub</a> · Automated continuous integration</sub>
 
 </div>
