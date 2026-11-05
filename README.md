@@ -4,7 +4,7 @@
 
 <br/>
 
-<a href="https://renox23-portfolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-renox23--portfolio-08090C?style=flat-square&logo=vercel&logoColor=2DE2C4&labelColor=0C0F17" alt="Portfolio" /></a>&nbsp;<a href="https://www.linkedin.com/in/renoldstephen/"><img src="https://img.shields.io/badge/LINKEDIN-renoldstephen-08090C?style=flat-square&logo=linkedin&logoColor=5AA9FF&labelColor=0C0F17" alt="LinkedIn" /></a>&nbsp;<a href="mailto:renoldstephen@gmail.com"><img src="https://img.shields.io/badge/EMAIL-renoldstephen%40gmail.com-08090C?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=0C0F17" alt="Email" /></a>&nbsp;<a href="https://github.com/RenoX23"><img src="https://img.shields.io/badge/GITHUB-RenoX23-08090C?style=flat-square&logo=github&logoColor=EDF0F7&labelColor=0C0F17" alt="GitHub" /></a>
+<a href="https://renox23-portfolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-renox23--portfolio-08090C?style=flat-square&logo=vercel&logoColor=2DE2C4&labelColor=0C0F17" alt="Portfolio" /></a>&nbsp;<a href="https://www.linkedin.com/in/renoldstephen/"><img src="https://img.shields.io/badge/LINKEDIN-renoldstephen-08090C?style=flat-square&logo=linkedin&logoColor=5AA9FF&labelColor=0C0F17" alt="LinkedIn" /></a>&nbsp;<a href="mailto:renoldstephen23@gmail.com"><img src="https://img.shields.io/badge/EMAIL-renoldstephen23%40gmail.com-08090C?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=0C0F17" alt="Email" /></a>&nbsp;<a href="https://github.com/RenoX23"><img src="https://img.shields.io/badge/GITHUB-RenoX23-08090C?style=flat-square&logo=github&logoColor=EDF0F7&labelColor=0C0F17" alt="GitHub" /></a>
 
 <br/><br/>
 
